@@ -1,0 +1,1368 @@
+,S_No,State_Name,District_Name,Season,Irrigation,pH,Moisture,Soil_Temp,Climate,Crop_Name,Area,Production,UREA,DAP,MAP,MOP,NPK,TSP,Labour_hours
+10,10,Punjab,AMRITSAR,Whole Year ,medium,6,80,25,Hot-dry,Cotton(lint),5000,2000,0.19,1,1,0.46,1,1,745.3
+14,14,Punjab,AMRITSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),4000,3000,0.19,1,1,0.46,1,1,745.3
+27,27,Punjab,AMRITSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2000,3000,0.19,1,1,0.46,1,1,745.3
+40,40,Punjab,AMRITSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2000,2000,0.19,1,1,0.46,1,1,745.3
+51,51,Punjab,AMRITSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2000,3000,0.19,1,1,0.46,1,1,745.3
+62,62,Punjab,AMRITSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,1000,0.19,1,1,0.46,1,1,745.3
+74,74,Punjab,AMRITSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,2000,0.19,1,1,0.46,1,1,745.3
+87,87,Punjab,AMRITSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,3000,0.19,1,1,0.46,1,1,745.3
+99,99,Punjab,AMRITSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,3000,0.19,1,1,0.46,1,1,745.3
+195,195,Punjab,BARNALA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),14000,81000,0.19,1,1,0.46,1,1,745.3
+203,203,Punjab,BARNALA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),12000,57000,0.19,1,1,0.46,1,1,745.3
+212,212,Punjab,BARNALA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),11000,50000,0.19,1,1,0.46,1,1,745.3
+220,220,Punjab,BARNALA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),10000,40000,0.19,1,1,0.46,1,1,745.3
+228,228,Punjab,BARNALA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),11000,44000,0.19,1,1,0.46,1,1,745.3
+236,236,Punjab,BARNALA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),9000,32000,0.19,1,1,0.46,1,1,745.3
+243,243,Punjab,BARNALA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),9000,37000,0.19,1,1,0.46,1,1,745.3
+252,252,Punjab,BARNALA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),8000,31000,0.19,1,1,0.46,1,1,745.3
+268,268,Punjab,BATHINDA,Whole Year ,medium,6,80,25,Hot-dry,Cotton(lint),199000,286000,0.19,1,1,0.46,1,1,745.3
+271,271,Punjab,BATHINDA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),170000,173000,0.19,1,1,0.46,1,1,745.3
+281,281,Punjab,BATHINDA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),151000,279000,0.19,1,1,0.46,1,1,745.3
+290,290,Punjab,BATHINDA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),147000,331000,0.19,1,1,0.46,1,1,745.3
+299,299,Punjab,BATHINDA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),162000,375000,0.19,1,1,0.46,1,1,745.3
+311,311,Punjab,BATHINDA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),125000,347000,0.19,1,1,0.46,1,1,745.3
+325,325,Punjab,BATHINDA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),128000,411000,0.19,1,1,0.46,1,1,745.3
+339,339,Punjab,BATHINDA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),141000,593000,0.19,1,1,0.46,1,1,745.3
+351,351,Punjab,BATHINDA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),151000,659000,0.19,1,1,0.46,1,1,745.3
+363,363,Punjab,BATHINDA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),161000,739000,0.19,1,1,0.46,1,1,745.3
+374,374,Punjab,BATHINDA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),165000,660000,0.19,1,1,0.46,1,1,745.3
+383,383,Punjab,BATHINDA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),153000,714000,0.19,1,1,0.46,1,1,745.3
+392,392,Punjab,BATHINDA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),150000,659000,0.19,1,1,0.46,1,1,745.3
+401,401,Punjab,BATHINDA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),147000,607000,0.19,1,1,0.46,1,1,745.3
+410,410,Punjab,BATHINDA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),155000,573000,0.19,1,1,0.46,1,1,745.3
+418,418,Punjab,BATHINDA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),151000,581000,0.19,1,1,0.46,1,1,745.3
+428,428,Punjab,BATHINDA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),142000,505000,0.19,1,1,0.46,1,1,745.3
+436,436,Punjab,BATHINDA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),139000,498000,0.19,1,1,0.46,1,1,745.3
+451,451,Punjab,FARIDKOT,Whole Year ,medium,6,80,25,Hot-dry,Cotton(lint),48000,35000,0.19,1,1,0.46,1,1,745.3
+454,454,Punjab,FARIDKOT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),22000,19000,0.19,1,1,0.46,1,1,745.3
+463,463,Punjab,FARIDKOT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),15000,29000,0.19,1,1,0.46,1,1,745.3
+472,472,Punjab,FARIDKOT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),14000,35000,0.19,1,1,0.46,1,1,745.3
+481,481,Punjab,FARIDKOT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),36000,72000,0.19,1,1,0.46,1,1,745.3
+489,489,Punjab,FARIDKOT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),16000,25000,0.19,1,1,0.46,1,1,745.3
+501,501,Punjab,FARIDKOT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),20000,58000,0.19,1,1,0.46,1,1,745.3
+513,513,Punjab,FARIDKOT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),21000,68000,0.19,1,1,0.46,1,1,745.3
+524,524,Punjab,FARIDKOT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),25000,108000,0.19,1,1,0.46,1,1,745.3
+535,535,Punjab,FARIDKOT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),29000,137000,0.19,1,1,0.46,1,1,745.3
+543,543,Punjab,FARIDKOT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),28000,105000,0.19,1,1,0.46,1,1,745.3
+550,550,Punjab,FARIDKOT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),21000,85000,0.19,1,1,0.46,1,1,745.3
+556,556,Punjab,FARIDKOT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),18000,71000,0.19,1,1,0.46,1,1,745.3
+562,562,Punjab,FARIDKOT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),15000,56000,0.19,1,1,0.46,1,1,745.3
+568,568,Punjab,FARIDKOT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),17000,52000,0.19,1,1,0.46,1,1,745.3
+573,573,Punjab,FARIDKOT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),15000,46000,0.19,1,1,0.46,1,1,745.3
+578,578,Punjab,FARIDKOT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),12000,37000,0.19,1,1,0.46,1,1,745.3
+583,583,Punjab,FARIDKOT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),10000,37000,0.19,1,1,0.46,1,1,745.3
+702,702,Punjab,FAZILKA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),112000,292000,0.19,1,1,0.46,1,1,745.3
+710,710,Punjab,FAZILKA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),98000,310000,0.19,1,1,0.46,1,1,745.3
+718,718,Punjab,FAZILKA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),98000,251000,0.19,1,1,0.46,1,1,745.3
+732,732,Punjab,FIROZEPUR,Whole Year ,medium,6,80,25,Hot-dry,Cotton(lint),153000,209000,0.19,1,1,0.46,1,1,745.3
+736,736,Punjab,FIROZEPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),138000,189000,0.19,1,1,0.46,1,1,745.3
+745,745,Punjab,FIROZEPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),119000,257000,0.19,1,1,0.46,1,1,745.3
+756,756,Punjab,FIROZEPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),114000,341000,0.19,1,1,0.46,1,1,745.3
+766,766,Punjab,FIROZEPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),143000,325000,0.19,1,1,0.46,1,1,745.3
+776,776,Punjab,FIROZEPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),121000,293000,0.19,1,1,0.46,1,1,745.3
+789,789,Punjab,FIROZEPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),117000,440000,0.19,1,1,0.46,1,1,745.3
+802,802,Punjab,FIROZEPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),133000,548000,0.19,1,1,0.46,1,1,745.3
+815,815,Punjab,FIROZEPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),140000,614000,0.19,1,1,0.46,1,1,745.3
+829,829,Punjab,FIROZEPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),151000,648000,0.19,1,1,0.46,1,1,745.3
+841,841,Punjab,FIROZEPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),139000,472000,0.19,1,1,0.46,1,1,745.3
+852,852,Punjab,FIROZEPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),120000,484000,0.19,1,1,0.46,1,1,745.3
+864,864,Punjab,FIROZEPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),126000,417000,0.19,1,1,0.46,1,1,745.3
+876,876,Punjab,FIROZEPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),116000,382000,0.19,1,1,0.46,1,1,745.3
+885,885,Punjab,FIROZEPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),124000,339000,0.19,1,1,0.46,1,1,745.3
+895,895,Punjab,FIROZEPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,3000,0.19,1,1,0.46,1,1,745.3
+902,902,Punjab,FIROZEPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,3000,0.19,1,1,0.46,1,1,745.3
+909,909,Punjab,FIROZEPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,3000,0.19,1,1,0.46,1,1,745.3
+1302,1302,Punjab,JALANDHAR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),2000,2000,0.19,1,1,0.46,1,1,745.3
+1334,1334,Punjab,JALANDHAR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),1000,2000,0.19,1,1,0.46,1,1,745.3
+1594,1594,Punjab,LUDHIANA,Whole Year ,medium,6,80,25,Hot-dry,Cotton(lint),3000,5000,0.19,1,1,0.46,1,1,745.3
+1607,1607,Punjab,LUDHIANA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,2000,0.19,1,1,0.46,1,1,745.3
+1616,1616,Punjab,LUDHIANA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,1000,0.19,1,1,0.46,1,1,745.3
+1627,1627,Punjab,LUDHIANA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2000,3000,0.19,1,1,0.46,1,1,745.3
+1638,1638,Punjab,LUDHIANA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,1000,0.19,1,1,0.46,1,1,745.3
+1649,1649,Punjab,LUDHIANA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,1000,0.19,1,1,0.46,1,1,745.3
+1670,1670,Punjab,LUDHIANA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,5000,0.19,1,1,0.46,1,1,745.3
+1682,1682,Punjab,LUDHIANA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2000,9000,0.19,1,1,0.46,1,1,745.3
+1692,1692,Punjab,LUDHIANA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3000,12000,0.19,1,1,0.46,1,1,745.3
+1700,1700,Punjab,LUDHIANA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2000,9000,0.19,1,1,0.46,1,1,745.3
+1709,1709,Punjab,LUDHIANA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2000,8000,0.19,1,1,0.46,1,1,745.3
+1719,1719,Punjab,LUDHIANA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,4000,0.19,1,1,0.46,1,1,745.3
+1728,1728,Punjab,LUDHIANA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,3000,0.19,1,1,0.46,1,1,745.3
+1738,1738,Punjab,LUDHIANA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,2000,0.19,1,1,0.46,1,1,745.3
+1752,1752,Punjab,LUDHIANA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,3000,0.19,1,1,0.46,1,1,745.3
+1777,1777,Punjab,MANSA,Whole Year ,medium,6,80,25,Temperate,Cotton(lint),103000,165000,0.19,1,1,0.46,1,1,745.3
+1781,1781,Punjab,MANSA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),83000,70000,0.19,1,1,0.46,1,1,745.3
+1790,1790,Punjab,MANSA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),72000,159000,0.19,1,1,0.46,1,1,745.3
+1800,1800,Punjab,MANSA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),79000,193000,0.19,1,1,0.46,1,1,745.3
+1808,1808,Punjab,MANSA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),92000,182000,0.19,1,1,0.46,1,1,745.3
+1818,1818,Punjab,MANSA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),70000,168000,0.19,1,1,0.46,1,1,745.3
+1831,1831,Punjab,MANSA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),73000,246000,0.19,1,1,0.46,1,1,745.3
+1842,1842,Punjab,MANSA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),82000,350000,0.19,1,1,0.46,1,1,745.3
+1853,1853,Punjab,MANSA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),91000,365000,0.19,1,1,0.46,1,1,745.3
+1864,1864,Punjab,MANSA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),93000,405000,0.19,1,1,0.46,1,1,745.3
+1875,1875,Punjab,MANSA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),100000,438000,0.19,1,1,0.46,1,1,745.3
+1885,1885,Punjab,MANSA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),90000,366000,0.19,1,1,0.46,1,1,745.3
+1896,1896,Punjab,MANSA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),89000,328000,0.19,1,1,0.46,1,1,745.3
+1907,1907,Punjab,MANSA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),88000,351000,0.19,1,1,0.46,1,1,745.3
+1916,1916,Punjab,MANSA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),93000,338000,0.19,1,1,0.46,1,1,745.3
+1926,1926,Punjab,MANSA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),90000,317000,0.19,1,1,0.46,1,1,745.3
+1937,1937,Punjab,MANSA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),86000,275000,0.19,1,1,0.46,1,1,745.3
+1944,1944,Punjab,MANSA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),84000,251000,0.19,1,1,0.46,1,1,745.3
+1957,1957,Punjab,MOGA,Whole Year ,medium,6,80,25,Composite,Cotton(lint),16000,24000,0.19,1,1,0.46,1,1,745.3
+1961,1961,Punjab,MOGA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),9000,10000,0.19,1,1,0.46,1,1,745.3
+1969,1969,Punjab,MOGA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),9000,13000,0.19,1,1,0.46,1,1,745.3
+1978,1978,Punjab,MOGA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),8000,20000,0.19,1,1,0.46,1,1,745.3
+1987,1987,Punjab,MOGA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),14000,20000,0.19,1,1,0.46,1,1,745.3
+1998,1998,Punjab,MOGA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),5000,6000,0.19,1,1,0.46,1,1,745.3
+2009,2009,Punjab,MOGA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),4000,11000,0.19,1,1,0.46,1,1,745.3
+2020,2020,Punjab,MOGA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),6000,20000,0.19,1,1,0.46,1,1,745.3
+2030,2030,Punjab,MOGA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),7000,28000,0.19,1,1,0.46,1,1,745.3
+2038,2038,Punjab,MOGA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),7000,29000,0.19,1,1,0.46,1,1,745.3
+2046,2046,Punjab,MOGA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),8000,32000,0.19,1,1,0.46,1,1,745.3
+2053,2053,Punjab,MOGA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),6000,36000,0.19,1,1,0.46,1,1,745.3
+2062,2062,Punjab,MOGA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),4000,17000,0.19,1,1,0.46,1,1,745.3
+2069,2069,Punjab,MOGA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),3000,9000,0.19,1,1,0.46,1,1,745.3
+2075,2075,Punjab,MOGA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),3000,5000,0.19,1,1,0.46,1,1,745.3
+2080,2080,Punjab,MOGA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),2000,9000,0.19,1,1,0.46,1,1,745.3
+2087,2087,Punjab,MOGA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),2000,8000,0.19,1,1,0.46,1,1,745.3
+2094,2094,Punjab,MOGA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),1000,3000,0.19,1,1,0.46,1,1,745.3
+2106,2106,Punjab,MUKTSAR,Whole Year ,medium,6,80,25,Hot-dry,Cotton(lint),161000,154000,0.19,1,1,0.46,1,1,745.3
+2109,2109,Punjab,MUKTSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),109000,100000,0.19,1,1,0.46,1,1,745.3
+2119,2119,Punjab,MUKTSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),85000,170000,0.19,1,1,0.46,1,1,745.3
+2130,2130,Punjab,MUKTSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),87000,233000,0.19,1,1,0.46,1,1,745.3
+2141,2141,Punjab,MUKTSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),126000,276000,0.19,1,1,0.46,1,1,745.3
+2151,2151,Punjab,MUKTSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),86000,202000,0.19,1,1,0.46,1,1,745.3
+2165,2165,Punjab,MUKTSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),91000,267000,0.19,1,1,0.46,1,1,745.3
+2178,2178,Punjab,MUKTSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),105000,437000,0.19,1,1,0.46,1,1,745.3
+2189,2189,Punjab,MUKTSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),117000,542000,0.19,1,1,0.46,1,1,745.3
+2200,2200,Punjab,MUKTSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),131000,599000,0.19,1,1,0.46,1,1,745.3
+2210,2210,Punjab,MUKTSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),128000,481000,0.19,1,1,0.46,1,1,745.3
+2219,2219,Punjab,MUKTSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),107000,476000,0.19,1,1,0.46,1,1,745.3
+2228,2228,Punjab,MUKTSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),96000,391000,0.19,1,1,0.46,1,1,745.3
+2237,2237,Punjab,MUKTSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),90000,330000,0.19,1,1,0.46,1,1,745.3
+2246,2246,Punjab,MUKTSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),98000,228000,0.19,1,1,0.46,1,1,745.3
+2255,2255,Punjab,MUKTSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),88000,298000,0.19,1,1,0.46,1,1,745.3
+2266,2266,Punjab,MUKTSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),82000,264000,0.19,1,1,0.46,1,1,745.3
+2275,2275,Punjab,MUKTSAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),66000,217000,0.19,1,1,0.46,1,1,745.3
+2446,2446,Punjab,PATIALA,Whole Year ,medium,6,80,25,Hot-dry,Cotton(lint),1000,2000,0.19,1,1,0.46,1,1,745.3
+2450,2450,Punjab,PATIALA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,1000,0.19,1,1,0.46,1,1,745.3
+2463,2463,Punjab,PATIALA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,1000,0.19,1,1,0.46,1,1,745.3
+2476,2476,Punjab,PATIALA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,2000,0.19,1,1,0.46,1,1,745.3
+2487,2487,Punjab,PATIALA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,2000,0.19,1,1,0.46,1,1,745.3
+2498,2498,Punjab,PATIALA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,2000,0.19,1,1,0.46,1,1,745.3
+2510,2510,Punjab,PATIALA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,3000,0.19,1,1,0.46,1,1,745.3
+2523,2523,Punjab,PATIALA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,3000,0.19,1,1,0.46,1,1,745.3
+2536,2536,Punjab,PATIALA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,3000,0.19,1,1,0.46,1,1,745.3
+2549,2549,Punjab,PATIALA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,3000,0.19,1,1,0.46,1,1,745.3
+2560,2560,Punjab,PATIALA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,4000,0.19,1,1,0.46,1,1,745.3
+2568,2568,Punjab,PATIALA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,4000,0.19,1,1,0.46,1,1,745.3
+2578,2578,Punjab,PATIALA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,4000,0.19,1,1,0.46,1,1,745.3
+2585,2585,Punjab,PATIALA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,3000,0.19,1,1,0.46,1,1,745.3
+2593,2593,Punjab,PATIALA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,3000,0.19,1,1,0.46,1,1,745.3
+2601,2601,Punjab,PATIALA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,3000,0.19,1,1,0.46,1,1,745.3
+2881,2881,Punjab,SANGRUR,Whole Year ,medium,6,80,25,Hot-dry,Cotton(lint),35000,55000,0.19,1,1,0.46,1,1,745.3
+2886,2886,Punjab,SANGRUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),24000,28000,0.19,1,1,0.46,1,1,745.3
+2898,2898,Punjab,SANGRUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),20000,37000,0.19,1,1,0.46,1,1,745.3
+2910,2910,Punjab,SANGRUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),21000,41000,0.19,1,1,0.46,1,1,745.3
+2922,2922,Punjab,SANGRUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),28000,47000,0.19,1,1,0.46,1,1,745.3
+2934,2934,Punjab,SANGRUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),23000,38000,0.19,1,1,0.46,1,1,745.3
+2947,2947,Punjab,SANGRUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),16000,39000,0.19,1,1,0.46,1,1,745.3
+2961,2961,Punjab,SANGRUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),19000,65000,0.19,1,1,0.46,1,1,745.3
+2974,2974,Punjab,SANGRUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),23000,68000,0.19,1,1,0.46,1,1,745.3
+2988,2988,Punjab,SANGRUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),27000,100000,0.19,1,1,0.46,1,1,745.3
+3000,3000,Punjab,SANGRUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),15000,60000,0.19,1,1,0.46,1,1,745.3
+3010,3010,Punjab,SANGRUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),14000,50000,0.19,1,1,0.46,1,1,745.3
+3021,3021,Punjab,SANGRUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),13000,57000,0.19,1,1,0.46,1,1,745.3
+3033,3033,Punjab,SANGRUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),11000,36000,0.19,1,1,0.46,1,1,745.3
+3041,3041,Punjab,SANGRUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),11000,33000,0.19,1,1,0.46,1,1,745.3
+3051,3051,Punjab,SANGRUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),11000,44000,0.19,1,1,0.46,1,1,745.3
+3065,3065,Punjab,SANGRUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),12000,50000,0.19,1,1,0.46,1,1,745.3
+3076,3076,Punjab,SANGRUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),13000,51000,0.19,1,1,0.46,1,1,745.3
+3088,3088,Punjab,TARN TARAN,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2000,9000,0.19,1,1,0.46,1,1,745.3
+3099,3099,Punjab,TARN TARAN,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3000,10000,0.19,1,1,0.46,1,1,745.3
+3108,3108,Punjab,TARN TARAN,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,4000,0.19,1,1,0.46,1,1,745.3
+3118,3118,Punjab,TARN TARAN,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,4000,0.19,1,1,0.46,1,1,745.3
+3128,3128,Punjab,TARN TARAN,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,4000,0.19,1,1,0.46,1,1,745.3
+3137,3137,Punjab,TARN TARAN,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,3000,0.19,1,1,0.46,1,1,745.3
+3159,3159,Punjab,TARN TARAN,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1000,3000,0.19,1,1,0.46,1,1,745.3
+3176,3176,Andhra Pradesh,ANANTAPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),7300,9400,1,0.6,1,1,1,1,833.3
+3204,3204,Andhra Pradesh,ANANTAPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),14000,12900,1,0.6,1,1,1,1,833.3
+3230,3230,Andhra Pradesh,ANANTAPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),9453,10510,1,0.6,1,1,1,1,833.3
+3261,3261,Andhra Pradesh,ANANTAPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),12025,16128,1,0.6,1,1,1,1,833.3
+3309,3309,Andhra Pradesh,ANANTAPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),8552,9055,1,0.6,1,1,1,1,833.3
+3354,3354,Andhra Pradesh,ANANTAPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),7638,7144,1,0.6,1,1,1,1,833.3
+3411,3411,Andhra Pradesh,ANANTAPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),4212,4262,1,0.6,1,1,1,1,833.3
+3466,3466,Andhra Pradesh,ANANTAPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),8933,7041,1,0.6,1,1,1,1,833.3
+3508,3508,Andhra Pradesh,ANANTAPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3295,3450,1,0.6,1,1,1,1,833.3
+3549,3549,Andhra Pradesh,ANANTAPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1506,1940,1,0.6,1,1,1,1,833.3
+3588,3588,Andhra Pradesh,ANANTAPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3000,2000,1,0.6,1,1,1,1,833.3
+3608,3608,Andhra Pradesh,ANANTAPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1611,1241,1,0.6,1,1,1,1,833.3
+3644,3644,Andhra Pradesh,ANANTAPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2063,1226,1,0.6,1,1,1,1,833.3
+3684,3684,Andhra Pradesh,ANANTAPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),4338,2977,1,0.6,1,1,1,1,833.3
+3724,3724,Andhra Pradesh,ANANTAPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),19299,12069,1,0.6,1,1,1,1,833.3
+3774,3774,Andhra Pradesh,ANANTAPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),27566,35511,1,0.6,1,1,1,1,833.3
+3804,3804,Andhra Pradesh,ANANTAPUR,Rabi       ,medium,6,80,25,Hot-dry,Cotton(lint),77,99,1,0.6,1,1,1,1,833.3
+3833,3833,Andhra Pradesh,ANANTAPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),37661,77316,1,0.6,1,1,1,1,833.3
+3866,3866,Andhra Pradesh,ANANTAPUR,Rabi       ,medium,6,80,25,Hot-dry,Cotton(lint),62,127,1,0.6,1,1,1,1,833.3
+3904,3904,Andhra Pradesh,ANANTAPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),73734,103779,1,0.6,1,1,1,1,833.3
+3938,3938,Andhra Pradesh,ANANTAPUR,Rabi       ,medium,6,80,25,Hot-dry,Cotton(lint),884,1244,1,0.6,1,1,1,1,833.3
+4010,4010,Andhra Pradesh,CHITTOOR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),2,2,1,0.6,1,1,1,1,833.3
+4041,4041,Andhra Pradesh,CHITTOOR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),19,25,1,0.6,1,1,1,1,833.3
+4091,4091,Andhra Pradesh,CHITTOOR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),2,2,1,0.6,1,1,1,1,833.3
+4300,4300,Andhra Pradesh,CHITTOOR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),4,4,1,0.6,1,1,1,1,833.3
+4406,4406,Andhra Pradesh,CHITTOOR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),24,37,1,0.6,1,1,1,1,833.3
+4446,4446,Andhra Pradesh,CHITTOOR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),66,94,1,0.6,1,1,1,1,833.3
+4487,4487,Andhra Pradesh,CHITTOOR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),235,98,1,0.6,1,1,1,1,833.3
+4528,4528,Andhra Pradesh,CHITTOOR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),400,65,1,0.6,1,1,1,1,833.3
+4575,4575,Andhra Pradesh,CHITTOOR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),317,405,1,0.6,1,1,1,1,833.3
+4607,4607,Andhra Pradesh,CHITTOOR,Rabi       ,medium,6,80,25,Warm-humid,Cotton(lint),226,288,1,0.6,1,1,1,1,833.3
+4634,4634,Andhra Pradesh,CHITTOOR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),157,391,1,0.6,1,1,1,1,833.3
+4667,4667,Andhra Pradesh,CHITTOOR,Rabi       ,medium,6,80,25,Warm-humid,Cotton(lint),194,483,1,0.6,1,1,1,1,833.3
+4699,4699,Andhra Pradesh,CHITTOOR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),308,723,1,0.6,1,1,1,1,833.3
+4729,4729,Andhra Pradesh,CHITTOOR,Rabi       ,medium,6,80,25,Warm-humid,Cotton(lint),545,1278,1,0.6,1,1,1,1,833.3
+4752,4752,Andhra Pradesh,EAST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),9800,23400,1,0.6,1,1,1,1,833.3
+4777,4777,Andhra Pradesh,EAST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),7900,6300,1,0.6,1,1,1,1,833.3
+4807,4807,Andhra Pradesh,EAST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),4410,7289,1,0.6,1,1,1,1,833.3
+4839,4839,Andhra Pradesh,EAST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),5580,10536,1,0.6,1,1,1,1,833.3
+4887,4887,Andhra Pradesh,EAST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),6289,16425,1,0.6,1,1,1,1,833.3
+4933,4933,Andhra Pradesh,EAST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),4555,8092,1,0.6,1,1,1,1,833.3
+4988,4988,Andhra Pradesh,EAST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),8969,26696,1,0.6,1,1,1,1,833.3
+5044,5044,Andhra Pradesh,EAST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),16022,45616,1,0.6,1,1,1,1,833.3
+5086,5086,Andhra Pradesh,EAST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),13939,10167,1,0.6,1,1,1,1,833.3
+5130,5130,Andhra Pradesh,EAST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),9034,19397,1,0.6,1,1,1,1,833.3
+5174,5174,Andhra Pradesh,EAST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),8000,18000,1,0.6,1,1,1,1,833.3
+5196,5196,Andhra Pradesh,EAST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),7432,14165,1,0.6,1,1,1,1,833.3
+5237,5237,Andhra Pradesh,EAST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),6845,19649,1,0.6,1,1,1,1,833.3
+5279,5279,Andhra Pradesh,EAST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),12112,21517,1,0.6,1,1,1,1,833.3
+5315,5315,Andhra Pradesh,EAST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),13150,19880,1,0.6,1,1,1,1,833.3
+5362,5362,Andhra Pradesh,EAST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),16845,32501,1,0.6,1,1,1,1,833.3
+5410,5410,Andhra Pradesh,EAST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),21781,24728,1,0.6,1,1,1,1,833.3
+5467,5467,Andhra Pradesh,EAST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),22433,47597,1,0.6,1,1,1,1,833.3
+5518,5518,Andhra Pradesh,GUNTUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),162300,432500,1,0.6,1,1,1,1,833.3
+5545,5545,Andhra Pradesh,GUNTUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),193600,120700,1,0.6,1,1,1,1,833.3
+5570,5570,Andhra Pradesh,GUNTUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),139425,252605,1,0.6,1,1,1,1,833.3
+5598,5598,Andhra Pradesh,GUNTUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),125251,252712,1,0.6,1,1,1,1,833.3
+5636,5636,Andhra Pradesh,GUNTUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),126285,378112,1,0.6,1,1,1,1,833.3
+5673,5673,Andhra Pradesh,GUNTUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),98628,186813,1,0.6,1,1,1,1,833.3
+5728,5728,Andhra Pradesh,GUNTUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),138925,485420,1,0.6,1,1,1,1,833.3
+5783,5783,Andhra Pradesh,GUNTUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),177868,593242,1,0.6,1,1,1,1,833.3
+5824,5824,Andhra Pradesh,GUNTUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),152978,462533,1,0.6,1,1,1,1,833.3
+5857,5857,Andhra Pradesh,GUNTUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),132550,468603,1,0.6,1,1,1,1,833.3
+5890,5890,Andhra Pradesh,GUNTUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),150000,689000,1,0.6,1,1,1,1,833.3
+5910,5910,Andhra Pradesh,GUNTUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),166289,643636,1,0.6,1,1,1,1,833.3
+5943,5943,Andhra Pradesh,GUNTUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),151490,524868,1,0.6,1,1,1,1,833.3
+5979,5979,Andhra Pradesh,GUNTUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),170158,402203,1,0.6,1,1,1,1,833.3
+6017,6017,Andhra Pradesh,GUNTUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),162714,346485,1,0.6,1,1,1,1,833.3
+6055,6055,Andhra Pradesh,GUNTUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),187397,708802,1,0.6,1,1,1,1,833.3
+6104,6104,Andhra Pradesh,GUNTUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),193207,752371,1,0.6,1,1,1,1,833.3
+6157,6157,Andhra Pradesh,GUNTUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),206374,1075856,1,0.6,1,1,1,1,833.3
+6182,6182,Andhra Pradesh,GUNTUR,Rabi       ,medium,6,80,25,Composite,Cotton(lint),22,115,1,0.6,1,1,1,1,833.3
+6205,6205,Andhra Pradesh,KADAPA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),13400,17400,1,0.6,1,1,1,1,833.3
+6231,6231,Andhra Pradesh,KADAPA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),24800,22900,1,0.6,1,1,1,1,833.3
+6260,6260,Andhra Pradesh,KADAPA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),25038,27836,1,0.6,1,1,1,1,833.3
+6292,6292,Andhra Pradesh,KADAPA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),30687,41157,1,0.6,1,1,1,1,833.3
+6341,6341,Andhra Pradesh,KADAPA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),21579,23356,1,0.6,1,1,1,1,833.3
+6389,6389,Andhra Pradesh,KADAPA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),11500,12921,1,0.6,1,1,1,1,833.3
+6445,6445,Andhra Pradesh,KADAPA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),15784,12999,1,0.6,1,1,1,1,833.3
+6499,6499,Andhra Pradesh,KADAPA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),27717,15815,1,0.6,1,1,1,1,833.3
+6543,6543,Andhra Pradesh,KADAPA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),14578,11834,1,0.6,1,1,1,1,833.3
+6585,6585,Andhra Pradesh,KADAPA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),7940,5651,1,0.6,1,1,1,1,833.3
+6627,6627,Andhra Pradesh,KADAPA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),9000,14000,1,0.6,1,1,1,1,833.3
+6646,6646,Andhra Pradesh,KADAPA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),11467,11669,1,0.6,1,1,1,1,833.3
+6689,6689,Andhra Pradesh,KADAPA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),12614,17882,1,0.6,1,1,1,1,833.3
+6733,6733,Andhra Pradesh,KADAPA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),17011,40822,1,0.6,1,1,1,1,833.3
+6780,6780,Andhra Pradesh,KADAPA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),30845,48314,1,0.6,1,1,1,1,833.3
+6829,6829,Andhra Pradesh,KADAPA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),28546,58771,1,0.6,1,1,1,1,833.3
+6862,6862,Andhra Pradesh,KADAPA,Rabi       ,medium,6,80,25,Hot-dry,Cotton(lint),330,679,1,0.6,1,1,1,1,833.3
+6896,6896,Andhra Pradesh,KADAPA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),34119,50175,1,0.6,1,1,1,1,833.3
+6931,6931,Andhra Pradesh,KADAPA,Rabi       ,medium,6,80,25,Hot-dry,Cotton(lint),1803,2651,1,0.6,1,1,1,1,833.3
+6966,6966,Andhra Pradesh,KADAPA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),34346,57550,1,0.6,1,1,1,1,833.3
+6999,6999,Andhra Pradesh,KADAPA,Rabi       ,medium,6,80,25,Hot-dry,Cotton(lint),1246,2088,1,0.6,1,1,1,1,833.3
+7027,7027,Andhra Pradesh,KRISHNA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),26400,63300,1,0.6,1,1,1,1,833.3
+7050,7050,Andhra Pradesh,KRISHNA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),41300,32500,1,0.6,1,1,1,1,833.3
+7072,7072,Andhra Pradesh,KRISHNA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),31696,52392,1,0.6,1,1,1,1,833.3
+7099,7099,Andhra Pradesh,KRISHNA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),29437,64069,1,0.6,1,1,1,1,833.3
+7135,7135,Andhra Pradesh,KRISHNA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),35374,77615,1,0.6,1,1,1,1,833.3
+7174,7174,Andhra Pradesh,KRISHNA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),31367,57937,1,0.6,1,1,1,1,833.3
+7228,7228,Andhra Pradesh,KRISHNA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),35436,104849,1,0.6,1,1,1,1,833.3
+7279,7279,Andhra Pradesh,KRISHNA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),47915,137544,1,0.6,1,1,1,1,833.3
+7316,7316,Andhra Pradesh,KRISHNA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),45825,88415,1,0.6,1,1,1,1,833.3
+7350,7350,Andhra Pradesh,KRISHNA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),31586,85282,1,0.6,1,1,1,1,833.3
+7382,7382,Andhra Pradesh,KRISHNA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),35000,115000,1,0.6,1,1,1,1,833.3
+7399,7399,Andhra Pradesh,KRISHNA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),36669,131459,1,0.6,1,1,1,1,833.3
+7432,7432,Andhra Pradesh,KRISHNA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),46902,140706,1,0.6,1,1,1,1,833.3
+7464,7464,Andhra Pradesh,KRISHNA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),51963,117681,1,0.6,1,1,1,1,833.3
+7498,7498,Andhra Pradesh,KRISHNA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),59845,122506,1,0.6,1,1,1,1,833.3
+7534,7534,Andhra Pradesh,KRISHNA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),64514,208722,1,0.6,1,1,1,1,833.3
+7576,7576,Andhra Pradesh,KRISHNA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),59304,224658,1,0.6,1,1,1,1,833.3
+7623,7623,Andhra Pradesh,KRISHNA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),55571,261650,1,0.6,1,1,1,1,833.3
+7664,7664,Andhra Pradesh,KURNOOL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),90400,116900,1,0.6,1,1,1,1,833.3
+7692,7692,Andhra Pradesh,KURNOOL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),153700,142000,1,0.6,1,1,1,1,833.3
+7723,7723,Andhra Pradesh,KURNOOL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),106402,118294,1,0.6,1,1,1,1,833.3
+7756,7756,Andhra Pradesh,KURNOOL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),118754,159270,1,0.6,1,1,1,1,833.3
+7806,7806,Andhra Pradesh,KURNOOL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),82631,87006,1,0.6,1,1,1,1,833.3
+7854,7854,Andhra Pradesh,KURNOOL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),55276,49748,1,0.6,1,1,1,1,833.3
+7913,7913,Andhra Pradesh,KURNOOL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),39274,42739,1,0.6,1,1,1,1,833.3
+7974,7974,Andhra Pradesh,KURNOOL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),74578,64488,1,0.6,1,1,1,1,833.3
+8019,8019,Andhra Pradesh,KURNOOL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),24333,22615,1,0.6,1,1,1,1,833.3
+8064,8064,Andhra Pradesh,KURNOOL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),17223,22896,1,0.6,1,1,1,1,833.3
+8109,8109,Andhra Pradesh,KURNOOL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),29000,48000,1,0.6,1,1,1,1,833.3
+8135,8135,Andhra Pradesh,KURNOOL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),23397,42803,1,0.6,1,1,1,1,833.3
+8177,8177,Andhra Pradesh,KURNOOL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),36070,52620,1,0.6,1,1,1,1,833.3
+8218,8218,Andhra Pradesh,KURNOOL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),54003,111375,1,0.6,1,1,1,1,833.3
+8260,8260,Andhra Pradesh,KURNOOL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),97242,122387,1,0.6,1,1,1,1,833.3
+8308,8308,Andhra Pradesh,KURNOOL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),154899,175856,1,0.6,1,1,1,1,833.3
+8339,8339,Andhra Pradesh,KURNOOL,Rabi       ,medium,6,80,25,Hot-dry,Cotton(lint),95,108,1,0.6,1,1,1,1,833.3
+8367,8367,Andhra Pradesh,KURNOOL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),203835,679850,1,0.6,1,1,1,1,833.3
+8399,8399,Andhra Pradesh,KURNOOL,Rabi       ,medium,6,80,25,Hot-dry,Cotton(lint),179,597,1,0.6,1,1,1,1,833.3
+8434,8434,Andhra Pradesh,KURNOOL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),306058,809620,1,0.6,1,1,1,1,833.3
+8464,8464,Andhra Pradesh,KURNOOL,Rabi       ,medium,6,80,25,Hot-dry,Cotton(lint),2,6,1,0.6,1,1,1,1,833.3
+8493,8493,Andhra Pradesh,PRAKASAM,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),39900,47500,1,0.6,1,1,1,1,833.3
+8522,8522,Andhra Pradesh,PRAKASAM,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),62800,82400,1,0.6,1,1,1,1,833.3
+8553,8553,Andhra Pradesh,PRAKASAM,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),41514,45665,1,0.6,1,1,1,1,833.3
+8585,8585,Andhra Pradesh,PRAKASAM,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),47128,61544,1,0.6,1,1,1,1,833.3
+8636,8636,Andhra Pradesh,PRAKASAM,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),37624,62633,1,0.6,1,1,1,1,833.3
+8683,8683,Andhra Pradesh,PRAKASAM,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),24364,28377,1,0.6,1,1,1,1,833.3
+8742,8742,Andhra Pradesh,PRAKASAM,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),35815,60675,1,0.6,1,1,1,1,833.3
+8803,8803,Andhra Pradesh,PRAKASAM,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),42618,57660,1,0.6,1,1,1,1,833.3
+8846,8846,Andhra Pradesh,PRAKASAM,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),20988,32717,1,0.6,1,1,1,1,833.3
+8887,8887,Andhra Pradesh,PRAKASAM,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),20156,40786,1,0.6,1,1,1,1,833.3
+8931,8931,Andhra Pradesh,PRAKASAM,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),24000,71000,1,0.6,1,1,1,1,833.3
+8957,8957,Andhra Pradesh,PRAKASAM,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),40781,131459,1,0.6,1,1,1,1,833.3
+8997,8997,Andhra Pradesh,PRAKASAM,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),32960,93645,1,0.6,1,1,1,1,833.3
+9037,9037,Andhra Pradesh,PRAKASAM,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),51421,115063,1,0.6,1,1,1,1,833.3
+9075,9075,Andhra Pradesh,PRAKASAM,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),57941,140142,1,0.6,1,1,1,1,833.3
+9120,9120,Andhra Pradesh,PRAKASAM,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),63206,195939,1,0.6,1,1,1,1,833.3
+9150,9150,Andhra Pradesh,PRAKASAM,Rabi       ,medium,6,80,25,Hot-dry,Cotton(lint),3838,11898,1,0.6,1,1,1,1,833.3
+9178,9178,Andhra Pradesh,PRAKASAM,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),82988,276301,1,0.6,1,1,1,1,833.3
+9209,9209,Andhra Pradesh,PRAKASAM,Rabi       ,medium,6,80,25,Hot-dry,Cotton(lint),1352,4501,1,0.6,1,1,1,1,833.3
+9243,9243,Andhra Pradesh,PRAKASAM,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),71520,252407,1,0.6,1,1,1,1,833.3
+9273,9273,Andhra Pradesh,PRAKASAM,Rabi       ,medium,6,80,25,Hot-dry,Cotton(lint),651,2298,1,0.6,1,1,1,1,833.3
+9300,9300,Andhra Pradesh,SPSR NELLORE,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),8700,20900,1,0.6,1,1,1,1,833.3
+9325,9325,Andhra Pradesh,SPSR NELLORE,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),7100,5600,1,0.6,1,1,1,1,833.3
+9351,9351,Andhra Pradesh,SPSR NELLORE,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),4636,7663,1,0.6,1,1,1,1,833.3
+9380,9380,Andhra Pradesh,SPSR NELLORE,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),7628,14403,1,0.6,1,1,1,1,833.3
+9422,9422,Andhra Pradesh,SPSR NELLORE,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),6553,17115,1,0.6,1,1,1,1,833.3
+9459,9459,Andhra Pradesh,SPSR NELLORE,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),5798,10300,1,0.6,1,1,1,1,833.3
+9514,9514,Andhra Pradesh,SPSR NELLORE,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),9993,29744,1,0.6,1,1,1,1,833.3
+9566,9566,Andhra Pradesh,SPSR NELLORE,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),6399,18218,1,0.6,1,1,1,1,833.3
+9604,9604,Andhra Pradesh,SPSR NELLORE,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),4428,10731,1,0.6,1,1,1,1,833.3
+9639,9639,Andhra Pradesh,SPSR NELLORE,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),3760,11568,1,0.6,1,1,1,1,833.3
+9674,9674,Andhra Pradesh,SPSR NELLORE,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),5000,20000,1,0.6,1,1,1,1,833.3
+9694,9694,Andhra Pradesh,SPSR NELLORE,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),6879,24724,1,0.6,1,1,1,1,833.3
+9730,9730,Andhra Pradesh,SPSR NELLORE,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),4567,14668,1,0.6,1,1,1,1,833.3
+9763,9763,Andhra Pradesh,SPSR NELLORE,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),8255,14718,1,0.6,1,1,1,1,833.3
+9797,9797,Andhra Pradesh,SPSR NELLORE,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),16925,34716,1,0.6,1,1,1,1,833.3
+9836,9836,Andhra Pradesh,SPSR NELLORE,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),4753,12414,1,0.6,1,1,1,1,833.3
+9858,9858,Andhra Pradesh,SPSR NELLORE,Rabi       ,medium,6,80,25,Warm-humid,Cotton(lint),2442,6378,1,0.6,1,1,1,1,833.3
+9882,9882,Andhra Pradesh,SPSR NELLORE,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),5220,13081,1,0.6,1,1,1,1,833.3
+9908,9908,Andhra Pradesh,SPSR NELLORE,Rabi       ,medium,6,80,25,Warm-humid,Cotton(lint),1565,3922,1,0.6,1,1,1,1,833.3
+9936,9936,Andhra Pradesh,SPSR NELLORE,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),6615,20463,1,0.6,1,1,1,1,833.3
+9960,9960,Andhra Pradesh,SPSR NELLORE,Rabi       ,medium,6,80,25,Warm-humid,Cotton(lint),2872,8885,1,0.6,1,1,1,1,833.3
+9982,9982,Andhra Pradesh,SRIKAKULAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),800,1900,1,0.6,1,1,1,1,833.3
+10007,10007,Andhra Pradesh,SRIKAKULAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),2000,1600,1,0.6,1,1,1,1,833.3
+10032,10032,Andhra Pradesh,SRIKAKULAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1700,2810,1,0.6,1,1,1,1,833.3
+10058,10058,Andhra Pradesh,SRIKAKULAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1836,3467,1,0.6,1,1,1,1,833.3
+10101,10101,Andhra Pradesh,SRIKAKULAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1724,4503,1,0.6,1,1,1,1,833.3
+10141,10141,Andhra Pradesh,SRIKAKULAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1522,2704,1,0.6,1,1,1,1,833.3
+10190,10190,Andhra Pradesh,SRIKAKULAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1711,5093,1,0.6,1,1,1,1,833.3
+10241,10241,Andhra Pradesh,SRIKAKULAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),2525,7189,1,0.6,1,1,1,1,833.3
+10280,10280,Andhra Pradesh,SRIKAKULAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),2666,6461,1,0.6,1,1,1,1,833.3
+10319,10319,Andhra Pradesh,SRIKAKULAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1761,5418,1,0.6,1,1,1,1,833.3
+10357,10357,Andhra Pradesh,SRIKAKULAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),2000,7000,1,0.6,1,1,1,1,833.3
+10380,10380,Andhra Pradesh,SRIKAKULAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1802,6477,1,0.6,1,1,1,1,833.3
+10417,10417,Andhra Pradesh,SRIKAKULAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1248,4008,1,0.6,1,1,1,1,833.3
+10453,10453,Andhra Pradesh,SRIKAKULAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),2968,6739,1,0.6,1,1,1,1,833.3
+10490,10490,Andhra Pradesh,SRIKAKULAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),5567,11953,1,0.6,1,1,1,1,833.3
+10532,10532,Andhra Pradesh,SRIKAKULAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),9952,33661,1,0.6,1,1,1,1,833.3
+10579,10579,Andhra Pradesh,SRIKAKULAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),9846,28843,1,0.6,1,1,1,1,833.3
+10629,10629,Andhra Pradesh,SRIKAKULAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),9563,42122,1,0.6,1,1,1,1,833.3
+10671,10671,Andhra Pradesh,VISAKHAPATANAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1500,3500,1,0.6,1,1,1,1,833.3
+10702,10702,Andhra Pradesh,VISAKHAPATANAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1300,1100,1,0.6,1,1,1,1,833.3
+10732,10732,Andhra Pradesh,VISAKHAPATANAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1197,1979,1,0.6,1,1,1,1,833.3
+10762,10762,Andhra Pradesh,VISAKHAPATANAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1119,2113,1,0.6,1,1,1,1,833.3
+10810,10810,Andhra Pradesh,VISAKHAPATANAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1021,2667,1,0.6,1,1,1,1,833.3
+10855,10855,Andhra Pradesh,VISAKHAPATANAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),859,1526,1,0.6,1,1,1,1,833.3
+10912,10912,Andhra Pradesh,VISAKHAPATANAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1359,4045,1,0.6,1,1,1,1,833.3
+10973,10973,Andhra Pradesh,VISAKHAPATANAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),3020,8598,1,0.6,1,1,1,1,833.3
+11018,11018,Andhra Pradesh,VISAKHAPATANAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1834,4445,1,0.6,1,1,1,1,833.3
+11061,11061,Andhra Pradesh,VISAKHAPATANAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),847,2606,1,0.6,1,1,1,1,833.3
+11130,11130,Andhra Pradesh,VISAKHAPATANAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),204,733,1,0.6,1,1,1,1,833.3
+11174,11174,Andhra Pradesh,VISAKHAPATANAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),697,2239,1,0.6,1,1,1,1,833.3
+11217,11217,Andhra Pradesh,VISAKHAPATANAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1105,2509,1,0.6,1,1,1,1,833.3
+11261,11261,Andhra Pradesh,VISAKHAPATANAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1390,2984,1,0.6,1,1,1,1,833.3
+11311,11311,Andhra Pradesh,VISAKHAPATANAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),3013,10191,1,0.6,1,1,1,1,833.3
+11366,11366,Andhra Pradesh,VISAKHAPATANAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),2798,8196,1,0.6,1,1,1,1,833.3
+11429,11429,Andhra Pradesh,VISAKHAPATANAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),2840,12510,1,0.6,1,1,1,1,833.3
+11483,11483,Andhra Pradesh,VIZIANAGARAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),4200,10100,1,0.6,1,1,1,1,833.3
+11512,11512,Andhra Pradesh,VIZIANAGARAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),13200,10400,1,0.6,1,1,1,1,833.3
+11540,11540,Andhra Pradesh,VIZIANAGARAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),10494,17346,1,0.6,1,1,1,1,833.3
+11569,11569,Andhra Pradesh,VIZIANAGARAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),9874,18644,1,0.6,1,1,1,1,833.3
+11609,11609,Andhra Pradesh,VIZIANAGARAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),15639,40845,1,0.6,1,1,1,1,833.3
+11647,11647,Andhra Pradesh,VIZIANAGARAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),12397,22023,1,0.6,1,1,1,1,833.3
+11702,11702,Andhra Pradesh,VIZIANAGARAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),19471,26801,1,0.6,1,1,1,1,833.3
+11758,11758,Andhra Pradesh,VIZIANAGARAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),22974,38650,1,0.6,1,1,1,1,833.3
+11798,11798,Andhra Pradesh,VIZIANAGARAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),17734,13874,1,0.6,1,1,1,1,833.3
+11838,11838,Andhra Pradesh,VIZIANAGARAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),11062,11452,1,0.6,1,1,1,1,833.3
+11877,11877,Andhra Pradesh,VIZIANAGARAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),7000,7000,1,0.6,1,1,1,1,833.3
+11902,11902,Andhra Pradesh,VIZIANAGARAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),6798,6358,1,0.6,1,1,1,1,833.3
+11942,11942,Andhra Pradesh,VIZIANAGARAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),8808,15129,1,0.6,1,1,1,1,833.3
+11985,11985,Andhra Pradesh,VIZIANAGARAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),11463,10721,1,0.6,1,1,1,1,833.3
+12025,12025,Andhra Pradesh,VIZIANAGARAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),11728,15798,1,0.6,1,1,1,1,833.3
+12071,12071,Andhra Pradesh,VIZIANAGARAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),14658,29316,1,0.6,1,1,1,1,833.3
+12120,12120,Andhra Pradesh,VIZIANAGARAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),15303,26735,1,0.6,1,1,1,1,833.3
+12174,12174,Andhra Pradesh,VIZIANAGARAM,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),15698,37286,1,0.6,1,1,1,1,833.3
+12223,12223,Andhra Pradesh,WEST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3400,8200,1,0.6,1,1,1,1,833.3
+12241,12241,Andhra Pradesh,WEST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3100,2400,1,0.6,1,1,1,1,833.3
+12260,12260,Andhra Pradesh,WEST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1546,2555,1,0.6,1,1,1,1,833.3
+12286,12286,Andhra Pradesh,WEST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2028,3829,1,0.6,1,1,1,1,833.3
+12323,12323,Andhra Pradesh,WEST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3269,8538,1,0.6,1,1,1,1,833.3
+12357,12357,Andhra Pradesh,WEST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),940,1670,1,0.6,1,1,1,1,833.3
+12404,12404,Andhra Pradesh,WEST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3759,11189,1,0.6,1,1,1,1,833.3
+12451,12451,Andhra Pradesh,WEST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),8729,24852,1,0.6,1,1,1,1,833.3
+12482,12482,Andhra Pradesh,WEST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),11196,27134,1,0.6,1,1,1,1,833.3
+12515,12515,Andhra Pradesh,WEST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),4370,13444,1,0.6,1,1,1,1,833.3
+12546,12546,Andhra Pradesh,WEST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),5000,18000,1,0.6,1,1,1,1,833.3
+12562,12562,Andhra Pradesh,WEST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3512,12623,1,0.6,1,1,1,1,833.3
+12590,12590,Andhra Pradesh,WEST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2522,8100,1,0.6,1,1,1,1,833.3
+12623,12623,Andhra Pradesh,WEST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3956,8982,1,0.6,1,1,1,1,833.3
+12652,12652,Andhra Pradesh,WEST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),5131,11017,1,0.6,1,1,1,1,833.3
+12686,12686,Andhra Pradesh,WEST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),6425,21732,1,0.6,1,1,1,1,833.3
+12722,12722,Andhra Pradesh,WEST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),5240,13038,1,0.6,1,1,1,1,833.3
+12765,12765,Andhra Pradesh,WEST GODAVARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),9795,13807,1,0.6,1,1,1,1,833.3
+12829,12829,Uttar Pradesh,AGRA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),238,22,0.42,0.56,1,0.19,1,1,833.3
+12858,12858,Uttar Pradesh,AGRA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),151,94,0.42,0.56,1,0.19,1,1,833.3
+12883,12883,Uttar Pradesh,AGRA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),213,165,0.42,0.56,1,0.19,1,1,833.3
+12907,12907,Uttar Pradesh,AGRA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),111,94,0.42,0.56,1,0.19,1,1,833.3
+12930,12930,Uttar Pradesh,AGRA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),212,171,0.42,0.56,1,0.19,1,1,833.3
+12980,12980,Uttar Pradesh,AGRA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),240,35,0.42,0.56,1,0.19,1,1,833.3
+13001,13001,Uttar Pradesh,AGRA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),413,84,0.42,0.56,1,0.19,1,1,833.3
+13021,13021,Uttar Pradesh,AGRA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),60,13,0.42,0.56,1,0.19,1,1,833.3
+13047,13047,Uttar Pradesh,AGRA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),450,123,0.42,0.56,1,0.19,1,1,833.3
+13074,13074,Uttar Pradesh,AGRA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),29,6,0.42,0.56,1,0.19,1,1,833.3
+13103,13103,Uttar Pradesh,AGRA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),329,55,0.42,0.56,1,0.19,1,1,833.3
+13133,13133,Uttar Pradesh,AGRA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),278,50,0.42,0.56,1,0.19,1,1,833.3
+13158,13158,Uttar Pradesh,AGRA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),528,141,0.42,0.56,1,0.19,1,1,833.3
+13188,13188,Uttar Pradesh,AGRA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),1072,287,0.42,0.56,1,0.19,1,1,833.3
+13217,13217,Uttar Pradesh,AGRA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),717,194,0.42,0.56,1,0.19,1,1,833.3
+13244,13244,Uttar Pradesh,AGRA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),1571,462,0.42,0.56,1,0.19,1,1,833.3
+13296,13296,Uttar Pradesh,ALIGARH,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),2154,178,0.42,0.56,1,0.19,1,1,833.3
+13322,13322,Uttar Pradesh,ALIGARH,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1944,1976,0.42,0.56,1,0.19,1,1,833.3
+13344,13344,Uttar Pradesh,ALIGARH,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1472,1153,0.42,0.56,1,0.19,1,1,833.3
+13366,13366,Uttar Pradesh,ALIGARH,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1376,1424,0.42,0.56,1,0.19,1,1,833.3
+13387,13387,Uttar Pradesh,ALIGARH,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1308,1182,0.42,0.56,1,0.19,1,1,833.3
+13437,13437,Uttar Pradesh,ALIGARH,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1213,289,0.42,0.56,1,0.19,1,1,833.3
+13460,13460,Uttar Pradesh,ALIGARH,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),196,40,0.42,0.56,1,0.19,1,1,833.3
+13482,13482,Uttar Pradesh,ALIGARH,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1013,232,0.42,0.56,1,0.19,1,1,833.3
+13512,13512,Uttar Pradesh,ALIGARH,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),958,261,0.42,0.56,1,0.19,1,1,833.3
+13541,13541,Uttar Pradesh,ALIGARH,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),968,213,0.42,0.56,1,0.19,1,1,833.3
+13570,13570,Uttar Pradesh,ALIGARH,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1539,259,0.42,0.56,1,0.19,1,1,833.3
+13602,13602,Uttar Pradesh,ALIGARH,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),466,84,0.42,0.56,1,0.19,1,1,833.3
+13628,13628,Uttar Pradesh,ALIGARH,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),996,204,0.42,0.56,1,0.19,1,1,833.3
+13657,13657,Uttar Pradesh,ALIGARH,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1132,224,0.42,0.56,1,0.19,1,1,833.3
+13688,13688,Uttar Pradesh,ALIGARH,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),640,124,0.42,0.56,1,0.19,1,1,833.3
+13721,13721,Uttar Pradesh,ALIGARH,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1721,544,0.42,0.56,1,0.19,1,1,833.3
+14835,14835,Uttar Pradesh,AMROHA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),1,,0.42,0.56,1,0.19,1,1,833.3
+14876,14876,Uttar Pradesh,AMROHA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),2,6,0.42,0.56,1,0.19,1,1,833.3
+16029,16029,Uttar Pradesh,AZAMGARH,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),3,1,0.42,0.56,1,0.19,1,1,833.3
+16185,16185,Uttar Pradesh,BAGHPAT,Kharif     ,medium,6,80,25,Composite,Cotton(lint),297,41,0.42,0.56,1,0.19,1,1,833.3
+16208,16208,Uttar Pradesh,BAGHPAT,Kharif     ,medium,6,80,25,Composite,Cotton(lint),294,376,0.42,0.56,1,0.19,1,1,833.3
+16228,16228,Uttar Pradesh,BAGHPAT,Kharif     ,medium,6,80,25,Composite,Cotton(lint),174,229,0.42,0.56,1,0.19,1,1,833.3
+16248,16248,Uttar Pradesh,BAGHPAT,Kharif     ,medium,6,80,25,Composite,Cotton(lint),130,165,0.42,0.56,1,0.19,1,1,833.3
+16268,16268,Uttar Pradesh,BAGHPAT,Kharif     ,medium,6,80,25,Composite,Cotton(lint),98,106,0.42,0.56,1,0.19,1,1,833.3
+16316,16316,Uttar Pradesh,BAGHPAT,Kharif     ,medium,6,80,25,Composite,Cotton(lint),78,13,0.42,0.56,1,0.19,1,1,833.3
+16331,16331,Uttar Pradesh,BAGHPAT,Kharif     ,medium,6,80,25,Composite,Cotton(lint),105,21,0.42,0.56,1,0.19,1,1,833.3
+16346,16346,Uttar Pradesh,BAGHPAT,Kharif     ,medium,6,80,25,Composite,Cotton(lint),73,16,0.42,0.56,1,0.19,1,1,833.3
+16365,16365,Uttar Pradesh,BAGHPAT,Kharif     ,medium,6,80,25,Composite,Cotton(lint),41,11,0.42,0.56,1,0.19,1,1,833.3
+16407,16407,Uttar Pradesh,BAGHPAT,Kharif     ,medium,6,80,25,Composite,Cotton(lint),20,3,0.42,0.56,1,0.19,1,1,833.3
+16430,16430,Uttar Pradesh,BAGHPAT,Kharif     ,medium,6,80,25,Composite,Cotton(lint),14,3,0.42,0.56,1,0.19,1,1,833.3
+16448,16448,Uttar Pradesh,BAGHPAT,Kharif     ,medium,6,80,25,Composite,Cotton(lint),102,24,0.42,0.56,1,0.19,1,1,833.3
+16471,16471,Uttar Pradesh,BAGHPAT,Kharif     ,medium,6,80,25,Composite,Cotton(lint),38,9,0.42,0.56,1,0.19,1,1,833.3
+16491,16491,Uttar Pradesh,BAGHPAT,Kharif     ,medium,6,80,25,Composite,Cotton(lint),38,9,0.42,0.56,1,0.19,1,1,833.3
+16514,16514,Uttar Pradesh,BAGHPAT,Kharif     ,medium,6,80,25,Composite,Cotton(lint),4,1,0.42,0.56,1,0.19,1,1,833.3
+18040,18040,Uttar Pradesh,BANDA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),4,6,0.42,0.56,1,0.19,1,1,833.3
+18464,18464,Uttar Pradesh,BARABANKI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),5,1,0.42,0.56,1,0.19,1,1,833.3
+18543,18543,Uttar Pradesh,BARABANKI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1,1,0.42,0.56,1,0.19,1,1,833.3
+18983,18983,Uttar Pradesh,BAREILLY,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),7,1,0.42,0.56,1,0.19,1,1,833.3
+19038,19038,Uttar Pradesh,BAREILLY,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),4,6,0.42,0.56,1,0.19,1,1,833.3
+19333,19333,Uttar Pradesh,BAREILLY,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),1,,0.42,0.56,1,0.19,1,1,833.3
+19958,19958,Uttar Pradesh,BIJNOR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),4,6,0.42,0.56,1,0.19,1,1,833.3
+20002,20002,Uttar Pradesh,BIJNOR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2,6,0.42,0.56,1,0.19,1,1,833.3
+20077,20077,Uttar Pradesh,BIJNOR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),5,1,0.42,0.56,1,0.19,1,1,833.3
+20141,20141,Uttar Pradesh,BIJNOR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3,1,0.42,0.56,1,0.19,1,1,833.3
+20365,20365,Uttar Pradesh,BUDAUN,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),2,,0.42,0.56,1,0.19,1,1,833.3
+20447,20447,Uttar Pradesh,BUDAUN,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),2,6,0.42,0.56,1,0.19,1,1,833.3
+20472,20472,Uttar Pradesh,BUDAUN,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),4,6,0.42,0.56,1,0.19,1,1,833.3
+20530,20530,Uttar Pradesh,BUDAUN,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),14,2,0.42,0.56,1,0.19,1,1,833.3
+20555,20555,Uttar Pradesh,BUDAUN,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),1,,0.42,0.56,1,0.19,1,1,833.3
+20577,20577,Uttar Pradesh,BUDAUN,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),6,1,0.42,0.56,1,0.19,1,1,833.3
+20800,20800,Uttar Pradesh,BUDAUN,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),2,1,0.42,0.56,1,0.19,1,1,833.3
+20888,20888,Uttar Pradesh,BULANDSHAHR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),510,62,0.42,0.56,1,0.19,1,1,833.3
+20915,20915,Uttar Pradesh,BULANDSHAHR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),369,471,0.42,0.56,1,0.19,1,1,833.3
+20937,20937,Uttar Pradesh,BULANDSHAHR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),218,282,0.42,0.56,1,0.19,1,1,833.3
+20959,20959,Uttar Pradesh,BULANDSHAHR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),213,276,0.42,0.56,1,0.19,1,1,833.3
+20983,20983,Uttar Pradesh,BULANDSHAHR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),248,265,0.42,0.56,1,0.19,1,1,833.3
+21032,21032,Uttar Pradesh,BULANDSHAHR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),394,66,0.42,0.56,1,0.19,1,1,833.3
+21052,21052,Uttar Pradesh,BULANDSHAHR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),355,73,0.42,0.56,1,0.19,1,1,833.3
+21072,21072,Uttar Pradesh,BULANDSHAHR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),345,73,0.42,0.56,1,0.19,1,1,833.3
+21098,21098,Uttar Pradesh,BULANDSHAHR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),406,111,0.42,0.56,1,0.19,1,1,833.3
+21125,21125,Uttar Pradesh,BULANDSHAHR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),301,66,0.42,0.56,1,0.19,1,1,833.3
+21153,21153,Uttar Pradesh,BULANDSHAHR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),166,28,0.42,0.56,1,0.19,1,1,833.3
+21182,21182,Uttar Pradesh,BULANDSHAHR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),213,38,0.42,0.56,1,0.19,1,1,833.3
+21209,21209,Uttar Pradesh,BULANDSHAHR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),84,20,0.42,0.56,1,0.19,1,1,833.3
+21239,21239,Uttar Pradesh,BULANDSHAHR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),65,15,0.42,0.56,1,0.19,1,1,833.3
+21269,21269,Uttar Pradesh,BULANDSHAHR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),244,55,0.42,0.56,1,0.19,1,1,833.3
+21301,21301,Uttar Pradesh,BULANDSHAHR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),224,67,0.42,0.56,1,0.19,1,1,833.3
+21658,21658,Uttar Pradesh,CHANDAULI,Kharif     ,medium,6,80,25,Composite,Cotton(lint),20,5,0.42,0.56,1,0.19,1,1,833.3
+22697,22697,Uttar Pradesh,ETAH,Kharif     ,medium,6,80,25,Composite,Cotton(lint),118,11,0.42,0.56,1,0.19,1,1,833.3
+22725,22725,Uttar Pradesh,ETAH,Kharif     ,medium,6,80,25,Composite,Cotton(lint),230,141,0.42,0.56,1,0.19,1,1,833.3
+22749,22749,Uttar Pradesh,ETAH,Kharif     ,medium,6,80,25,Composite,Cotton(lint),235,182,0.42,0.56,1,0.19,1,1,833.3
+22773,22773,Uttar Pradesh,ETAH,Kharif     ,medium,6,80,25,Composite,Cotton(lint),47,41,0.42,0.56,1,0.19,1,1,833.3
+22800,22800,Uttar Pradesh,ETAH,Kharif     ,medium,6,80,25,Composite,Cotton(lint),48,41,0.42,0.56,1,0.19,1,1,833.3
+22857,22857,Uttar Pradesh,ETAH,Kharif     ,medium,6,80,25,Composite,Cotton(lint),70,11,0.42,0.56,1,0.19,1,1,833.3
+22881,22881,Uttar Pradesh,ETAH,Kharif     ,medium,6,80,25,Composite,Cotton(lint),170,35,0.42,0.56,1,0.19,1,1,833.3
+22906,22906,Uttar Pradesh,ETAH,Kharif     ,medium,6,80,25,Composite,Cotton(lint),127,29,0.42,0.56,1,0.19,1,1,833.3
+22999,22999,Uttar Pradesh,ETAH,Kharif     ,medium,6,80,25,Composite,Cotton(lint),9,2,0.42,0.56,1,0.19,1,1,833.3
+23030,23030,Uttar Pradesh,ETAH,Kharif     ,medium,6,80,25,Composite,Cotton(lint),6,1,0.42,0.56,1,0.19,1,1,833.3
+23115,23115,Uttar Pradesh,ETAH,Kharif     ,medium,6,80,25,Composite,Cotton(lint),13,2,0.42,0.56,1,0.19,1,1,833.3
+23197,23197,Uttar Pradesh,ETAWAH,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),2,,0.42,0.56,1,0.19,1,1,833.3
+23264,23264,Uttar Pradesh,ETAWAH,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1,1,0.42,0.56,1,0.19,1,1,833.3
+25113,25113,Uttar Pradesh,FIROZABAD,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1,,0.42,0.56,1,0.19,1,1,833.3
+25139,25139,Uttar Pradesh,FIROZABAD,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),15,12,0.42,0.56,1,0.19,1,1,833.3
+25165,25165,Uttar Pradesh,FIROZABAD,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),4,6,0.42,0.56,1,0.19,1,1,833.3
+25188,25188,Uttar Pradesh,FIROZABAD,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),3,6,0.42,0.56,1,0.19,1,1,833.3
+25213,25213,Uttar Pradesh,FIROZABAD,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),9,6,0.42,0.56,1,0.19,1,1,833.3
+25269,25269,Uttar Pradesh,FIROZABAD,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),10,1,0.42,0.56,1,0.19,1,1,833.3
+25314,25314,Uttar Pradesh,FIROZABAD,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),10,2,0.42,0.56,1,0.19,1,1,833.3
+25344,25344,Uttar Pradesh,FIROZABAD,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),10,3,0.42,0.56,1,0.19,1,1,833.3
+25401,25401,Uttar Pradesh,FIROZABAD,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),3,1,0.42,0.56,1,0.19,1,1,833.3
+25433,25433,Uttar Pradesh,FIROZABAD,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),23,4,0.42,0.56,1,0.19,1,1,833.3
+25460,25460,Uttar Pradesh,FIROZABAD,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),6,2,0.42,0.56,1,0.19,1,1,833.3
+25490,25490,Uttar Pradesh,FIROZABAD,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),14,3,0.42,0.56,1,0.19,1,1,833.3
+25519,25519,Uttar Pradesh,FIROZABAD,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),7,2,0.42,0.56,1,0.19,1,1,833.3
+25552,25552,Uttar Pradesh,FIROZABAD,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),21,6,0.42,0.56,1,0.19,1,1,833.3
+25599,25599,Uttar Pradesh,GAUTAM BUDDHA NAGAR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),101,14,0.42,0.56,1,0.19,1,1,833.3
+25621,25621,Uttar Pradesh,GAUTAM BUDDHA NAGAR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),98,124,0.42,0.56,1,0.19,1,1,833.3
+25641,25641,Uttar Pradesh,GAUTAM BUDDHA NAGAR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),93,124,0.42,0.56,1,0.19,1,1,833.3
+25661,25661,Uttar Pradesh,GAUTAM BUDDHA NAGAR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),87,112,0.42,0.56,1,0.19,1,1,833.3
+25681,25681,Uttar Pradesh,GAUTAM BUDDHA NAGAR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),57,65,0.42,0.56,1,0.19,1,1,833.3
+25722,25722,Uttar Pradesh,GAUTAM BUDDHA NAGAR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),14,2,0.42,0.56,1,0.19,1,1,833.3
+25738,25738,Uttar Pradesh,GAUTAM BUDDHA NAGAR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),30,6,0.42,0.56,1,0.19,1,1,833.3
+25950,25950,Uttar Pradesh,GHAZIABAD,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),21,3,0.42,0.56,1,0.19,1,1,833.3
+25973,25973,Uttar Pradesh,GHAZIABAD,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),24,29,0.42,0.56,1,0.19,1,1,833.3
+25993,25993,Uttar Pradesh,GHAZIABAD,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),9,12,0.42,0.56,1,0.19,1,1,833.3
+26012,26012,Uttar Pradesh,GHAZIABAD,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),11,12,0.42,0.56,1,0.19,1,1,833.3
+26033,26033,Uttar Pradesh,GHAZIABAD,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),10,12,0.42,0.56,1,0.19,1,1,833.3
+26079,26079,Uttar Pradesh,GHAZIABAD,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),3,1,0.42,0.56,1,0.19,1,1,833.3
+26206,26206,Uttar Pradesh,GHAZIABAD,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),2,,0.42,0.56,1,0.19,1,1,833.3
+27946,27946,Uttar Pradesh,HAMIRPUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),1,,0.42,0.56,1,0.19,1,1,833.3
+27989,27989,Uttar Pradesh,HAMIRPUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),1,,0.42,0.56,1,0.19,1,1,833.3
+28765,28765,Uttar Pradesh,HARDOI,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),6,1,0.42,0.56,1,0.19,1,1,833.3
+28854,28854,Uttar Pradesh,HATHRAS,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1638,152,0.42,0.56,1,0.19,1,1,833.3
+28878,28878,Uttar Pradesh,HATHRAS,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1946,1212,0.42,0.56,1,0.19,1,1,833.3
+28900,28900,Uttar Pradesh,HATHRAS,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1519,1188,0.42,0.56,1,0.19,1,1,833.3
+28920,28920,Uttar Pradesh,HATHRAS,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1324,1147,0.42,0.56,1,0.19,1,1,833.3
+28942,28942,Uttar Pradesh,HATHRAS,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1448,199,0.42,0.56,1,0.19,1,1,833.3
+28991,28991,Uttar Pradesh,HATHRAS,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1869,271,0.42,0.56,1,0.19,1,1,833.3
+29012,29012,Uttar Pradesh,HATHRAS,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1508,307,0.42,0.56,1,0.19,1,1,833.3
+29033,29033,Uttar Pradesh,HATHRAS,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1869,359,0.42,0.56,1,0.19,1,1,833.3
+29057,29057,Uttar Pradesh,HATHRAS,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1518,414,0.42,0.56,1,0.19,1,1,833.3
+29083,29083,Uttar Pradesh,HATHRAS,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1094,240,0.42,0.56,1,0.19,1,1,833.3
+29111,29111,Uttar Pradesh,HATHRAS,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1504,254,0.42,0.56,1,0.19,1,1,833.3
+29139,29139,Uttar Pradesh,HATHRAS,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1247,225,0.42,0.56,1,0.19,1,1,833.3
+29165,29165,Uttar Pradesh,HATHRAS,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),613,125,0.42,0.56,1,0.19,1,1,833.3
+29194,29194,Uttar Pradesh,HATHRAS,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1248,247,0.42,0.56,1,0.19,1,1,833.3
+29226,29226,Uttar Pradesh,HATHRAS,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),943,152,0.42,0.56,1,0.19,1,1,833.3
+29256,29256,Uttar Pradesh,HATHRAS,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1173,333,0.42,0.56,1,0.19,1,1,833.3
+29378,29378,Uttar Pradesh,JALAUN,Kharif     ,medium,6,80,25,Composite,Cotton(lint),2,6,0.42,0.56,1,0.19,1,1,833.3
+30100,30100,Uttar Pradesh,JAUNPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),42,10,0.42,0.56,1,0.19,1,1,833.3
+30160,30160,Uttar Pradesh,JAUNPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),22,5,0.42,0.56,1,0.19,1,1,833.3
+30676,30676,Uttar Pradesh,JHANSI,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),73,22,0.42,0.56,1,0.19,1,1,833.3
+30804,30804,Uttar Pradesh,KANNAUJ,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),8,12,0.42,0.56,1,0.19,1,1,833.3
+30881,30881,Uttar Pradesh,KANNAUJ,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),2,,0.42,0.56,1,0.19,1,1,833.3
+31214,31214,Uttar Pradesh,KANPUR DEHAT,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),35,4,0.42,0.56,1,0.19,1,1,833.3
+31346,31346,Uttar Pradesh,KANPUR DEHAT,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),1,,0.42,0.56,1,0.19,1,1,833.3
+31626,31626,Uttar Pradesh,KANPUR NAGAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),13,1,0.42,0.56,1,0.19,1,1,833.3
+31657,31657,Uttar Pradesh,KANPUR NAGAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),12,12,0.42,0.56,1,0.19,1,1,833.3
+31684,31684,Uttar Pradesh,KANPUR NAGAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),10,12,0.42,0.56,1,0.19,1,1,833.3
+31709,31709,Uttar Pradesh,KANPUR NAGAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),14,12,0.42,0.56,1,0.19,1,1,833.3
+32219,32219,Uttar Pradesh,KASGANJ,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1,,0.42,0.56,1,0.19,1,1,833.3
+33689,33689,Uttar Pradesh,KUSHI NAGAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),5,1,0.42,0.56,1,0.19,1,1,833.3
+33785,33785,Uttar Pradesh,KUSHI NAGAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),5,1,0.42,0.56,1,0.19,1,1,833.3
+34690,34690,Uttar Pradesh,LUCKNOW,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),118,28,0.42,0.56,1,0.19,1,1,833.3
+36231,36231,Uttar Pradesh,MATHURA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),996,93,0.42,0.56,1,0.19,1,1,833.3
+36257,36257,Uttar Pradesh,MATHURA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),868,541,0.42,0.56,1,0.19,1,1,833.3
+36280,36280,Uttar Pradesh,MATHURA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),618,482,0.42,0.56,1,0.19,1,1,833.3
+36302,36302,Uttar Pradesh,MATHURA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),672,582,0.42,0.56,1,0.19,1,1,833.3
+36322,36322,Uttar Pradesh,MATHURA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1200,971,0.42,0.56,1,0.19,1,1,833.3
+36371,36371,Uttar Pradesh,MATHURA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1469,213,0.42,0.56,1,0.19,1,1,833.3
+36390,36390,Uttar Pradesh,MATHURA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1436,292,0.42,0.56,1,0.19,1,1,833.3
+36412,36412,Uttar Pradesh,MATHURA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1453,333,0.42,0.56,1,0.19,1,1,833.3
+36438,36438,Uttar Pradesh,MATHURA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),794,217,0.42,0.56,1,0.19,1,1,833.3
+36461,36461,Uttar Pradesh,MATHURA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1004,220,0.42,0.56,1,0.19,1,1,833.3
+36487,36487,Uttar Pradesh,MATHURA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1122,189,0.42,0.56,1,0.19,1,1,833.3
+36514,36514,Uttar Pradesh,MATHURA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1326,239,0.42,0.56,1,0.19,1,1,833.3
+36536,36536,Uttar Pradesh,MATHURA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1178,315,0.42,0.56,1,0.19,1,1,833.3
+36562,36562,Uttar Pradesh,MATHURA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1405,376,0.42,0.56,1,0.19,1,1,833.3
+36586,36586,Uttar Pradesh,MATHURA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1217,328,0.42,0.56,1,0.19,1,1,833.3
+36610,36610,Uttar Pradesh,MATHURA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1514,446,0.42,0.56,1,0.19,1,1,833.3
+37108,37108,Uttar Pradesh,MEERUT,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),129,18,0.42,0.56,1,0.19,1,1,833.3
+37130,37130,Uttar Pradesh,MEERUT,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),89,112,0.42,0.56,1,0.19,1,1,833.3
+37151,37151,Uttar Pradesh,MEERUT,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),74,94,0.42,0.56,1,0.19,1,1,833.3
+37173,37173,Uttar Pradesh,MEERUT,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),72,94,0.42,0.56,1,0.19,1,1,833.3
+37194,37194,Uttar Pradesh,MEERUT,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),32,35,0.42,0.56,1,0.19,1,1,833.3
+37239,37239,Uttar Pradesh,MEERUT,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),45,8,0.42,0.56,1,0.19,1,1,833.3
+37256,37256,Uttar Pradesh,MEERUT,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),41,8,0.42,0.56,1,0.19,1,1,833.3
+37273,37273,Uttar Pradesh,MEERUT,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),40,9,0.42,0.56,1,0.19,1,1,833.3
+37294,37294,Uttar Pradesh,MEERUT,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),5,1,0.42,0.56,1,0.19,1,1,833.3
+37319,37319,Uttar Pradesh,MEERUT,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),4,1,0.42,0.56,1,0.19,1,1,833.3
+37342,37342,Uttar Pradesh,MEERUT,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),18,3,0.42,0.56,1,0.19,1,1,833.3
+37367,37367,Uttar Pradesh,MEERUT,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),22,4,0.42,0.56,1,0.19,1,1,833.3
+37389,37389,Uttar Pradesh,MEERUT,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),47,11,0.42,0.56,1,0.19,1,1,833.3
+37414,37414,Uttar Pradesh,MEERUT,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),7,2,0.42,0.56,1,0.19,1,1,833.3
+37441,37441,Uttar Pradesh,MEERUT,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),11,2,0.42,0.56,1,0.19,1,1,833.3
+37468,37468,Uttar Pradesh,MEERUT,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),9,3,0.42,0.56,1,0.19,1,1,833.3
+38002,38002,Uttar Pradesh,MORADABAD,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),1,,0.42,0.56,1,0.19,1,1,833.3
+38481,38481,Uttar Pradesh,MUZAFFARNAGAR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),541,84,0.42,0.56,1,0.19,1,1,833.3
+38507,38507,Uttar Pradesh,MUZAFFARNAGAR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),466,529,0.42,0.56,1,0.19,1,1,833.3
+38529,38529,Uttar Pradesh,MUZAFFARNAGAR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),374,371,0.42,0.56,1,0.19,1,1,833.3
+38551,38551,Uttar Pradesh,MUZAFFARNAGAR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),229,306,0.42,0.56,1,0.19,1,1,833.3
+38574,38574,Uttar Pradesh,MUZAFFARNAGAR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),150,171,0.42,0.56,1,0.19,1,1,833.3
+38622,38622,Uttar Pradesh,MUZAFFARNAGAR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),87,15,0.42,0.56,1,0.19,1,1,833.3
+38645,38645,Uttar Pradesh,MUZAFFARNAGAR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),67,14,0.42,0.56,1,0.19,1,1,833.3
+38662,38662,Uttar Pradesh,MUZAFFARNAGAR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),44,10,0.42,0.56,1,0.19,1,1,833.3
+38687,38687,Uttar Pradesh,MUZAFFARNAGAR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),74,20,0.42,0.56,1,0.19,1,1,833.3
+38712,38712,Uttar Pradesh,MUZAFFARNAGAR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),114,25,0.42,0.56,1,0.19,1,1,833.3
+38738,38738,Uttar Pradesh,MUZAFFARNAGAR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),234,39,0.42,0.56,1,0.19,1,1,833.3
+38766,38766,Uttar Pradesh,MUZAFFARNAGAR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),121,22,0.42,0.56,1,0.19,1,1,833.3
+38790,38790,Uttar Pradesh,MUZAFFARNAGAR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),85,20,0.42,0.56,1,0.19,1,1,833.3
+38818,38818,Uttar Pradesh,MUZAFFARNAGAR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),50,11,0.42,0.56,1,0.19,1,1,833.3
+38843,38843,Uttar Pradesh,MUZAFFARNAGAR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),25,6,0.42,0.56,1,0.19,1,1,833.3
+38920,38920,Uttar Pradesh,PILIBHIT,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),3,,0.42,0.56,1,0.19,1,1,833.3
+38990,38990,Uttar Pradesh,PILIBHIT,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),2,1,0.42,0.56,1,0.19,1,1,833.3
+40379,40379,Uttar Pradesh,RAMPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),1,,0.42,0.56,1,0.19,1,1,833.3
+40452,40452,Uttar Pradesh,RAMPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),1,1,0.42,0.56,1,0.19,1,1,833.3
+40844,40844,Uttar Pradesh,SAHARANPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),524,106,0.42,0.56,1,0.19,1,1,833.3
+40865,40865,Uttar Pradesh,SAHARANPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),292,318,0.42,0.56,1,0.19,1,1,833.3
+40885,40885,Uttar Pradesh,SAHARANPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),305,441,0.42,0.56,1,0.19,1,1,833.3
+40907,40907,Uttar Pradesh,SAHARANPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),191,253,0.42,0.56,1,0.19,1,1,833.3
+40928,40928,Uttar Pradesh,SAHARANPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),163,188,0.42,0.56,1,0.19,1,1,833.3
+40974,40974,Uttar Pradesh,SAHARANPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),95,16,0.42,0.56,1,0.19,1,1,833.3
+40993,40993,Uttar Pradesh,SAHARANPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),44,9,0.42,0.56,1,0.19,1,1,833.3
+41011,41011,Uttar Pradesh,SAHARANPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),118,25,0.42,0.56,1,0.19,1,1,833.3
+41060,41060,Uttar Pradesh,SAHARANPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),35,8,0.42,0.56,1,0.19,1,1,833.3
+41083,41083,Uttar Pradesh,SAHARANPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),21,4,0.42,0.56,1,0.19,1,1,833.3
+41109,41109,Uttar Pradesh,SAHARANPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),11,2,0.42,0.56,1,0.19,1,1,833.3
+41135,41135,Uttar Pradesh,SAHARANPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),19,5,0.42,0.56,1,0.19,1,1,833.3
+41164,41164,Uttar Pradesh,SAHARANPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),8,2,0.42,0.56,1,0.19,1,1,833.3
+41191,41191,Uttar Pradesh,SAHARANPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),2,,0.42,0.56,1,0.19,1,1,833.3
+41217,41217,Uttar Pradesh,SAHARANPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),7,2,0.42,0.56,1,0.19,1,1,833.3
+42223,42223,Uttar Pradesh,SHAHJAHANPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),8,6,0.42,0.56,1,0.19,1,1,833.3
+42273,42273,Uttar Pradesh,SHAHJAHANPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),2,1,0.42,0.56,1,0.19,1,1,833.3
+42696,42696,Uttar Pradesh,SHAMLI,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),34,8,0.42,0.56,1,0.19,1,1,833.3
+42721,42721,Uttar Pradesh,SHAMLI,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),9,2,0.42,0.56,1,0.19,1,1,833.3
+43667,43667,Uttar Pradesh,SITAPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),11,12,0.42,0.56,1,0.19,1,1,833.3
+43719,43719,Uttar Pradesh,SITAPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),11,12,0.42,0.56,1,0.19,1,1,833.3
+43801,43801,Uttar Pradesh,SITAPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),3,1,0.42,0.56,1,0.19,1,1,833.3
+43853,43853,Uttar Pradesh,SITAPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),15,3,0.42,0.56,1,0.19,1,1,833.3
+43922,43922,Uttar Pradesh,SITAPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),7,2,0.42,0.56,1,0.19,1,1,833.3
+43952,43952,Uttar Pradesh,SITAPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),6,1,0.42,0.56,1,0.19,1,1,833.3
+46116,46116,Haryana,AMBALA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),25,,0.61,0.8,1,0.17,0.75,1,833.3
+46137,46137,Haryana,AMBALA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),25,0,0.61,0.8,1,0.17,0.75,1,833.3
+46156,46156,Haryana,AMBALA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),25,0,0.61,0.8,1,0.17,0.75,1,833.3
+46177,46177,Haryana,AMBALA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),24,,0.61,0.8,1,0.17,0.75,1,833.3
+46198,46198,Haryana,AMBALA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),16,0,0.61,0.8,1,0.17,0.75,1,833.3
+46219,46219,Haryana,AMBALA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),16,0,0.61,0.8,1,0.17,0.75,1,833.3
+46241,46241,Haryana,AMBALA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),12,,0.61,0.8,1,0.17,0.75,1,833.3
+46264,46264,Haryana,AMBALA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),3,,0.61,0.8,1,0.17,0.75,1,833.3
+46285,46285,Haryana,AMBALA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),8,,0.61,0.8,1,0.17,0.75,1,833.3
+46326,46326,Haryana,AMBALA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),6,,0.61,0.8,1,0.17,0.75,1,833.3
+46350,46350,Haryana,AMBALA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),2,,0.61,0.8,1,0.17,0.75,1,833.3
+46388,46388,Haryana,AMBALA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),2,,0.61,0.8,1,0.17,0.75,1,833.3
+46408,46408,Haryana,AMBALA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),4,,0.61,0.8,1,0.17,0.75,1,833.3
+46434,46434,Haryana,BHIWANI,Whole Year ,medium,6,80,25,Hot-dry,Cotton(lint),55000,85000,0.61,0.8,1,0.17,0.75,1,833.3
+46438,46438,Haryana,BHIWANI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),54800,97000,0.61,0.8,1,0.17,0.75,1,833.3
+46460,46460,Haryana,BHIWANI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),50459,122000,0.61,0.8,1,0.17,0.75,1,833.3
+46478,46478,Haryana,BHIWANI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),47478,109000,0.61,0.8,1,0.17,0.75,1,833.3
+46501,46501,Haryana,BHIWANI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),64668,80000,0.61,0.8,1,0.17,0.75,1,833.3
+46524,46524,Haryana,BHIWANI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),64628,84000,0.61,0.8,1,0.17,0.75,1,833.3
+46545,46545,Haryana,BHIWANI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),61897,121000,0.61,0.8,1,0.17,0.75,1,833.3
+46569,46569,Haryana,BHIWANI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),73039,176000,0.61,0.8,1,0.17,0.75,1,833.3
+46587,46587,Haryana,BHIWANI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),60491,105000,0.61,0.8,1,0.17,0.75,1,833.3
+46606,46606,Haryana,BHIWANI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),48614,103000,0.61,0.8,1,0.17,0.75,1,833.3
+46622,46622,Haryana,BHIWANI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),37338,99000,0.61,0.8,1,0.17,0.75,1,833.3
+46645,46645,Haryana,BHIWANI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),29815,74000,0.61,0.8,1,0.17,0.75,1,833.3
+46666,46666,Haryana,BHIWANI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),32829,88000,0.61,0.8,1,0.17,0.75,1,833.3
+46681,46681,Haryana,BHIWANI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),34882,106000,0.61,0.8,1,0.17,0.75,1,833.3
+46699,46699,Haryana,BHIWANI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),59565,216000,0.61,0.8,1,0.17,0.75,1,833.3
+46716,46716,Haryana,BHIWANI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),62612,231000,0.61,0.8,1,0.17,0.75,1,833.3
+46744,46744,Haryana,FARIDABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),148,,0.61,0.8,1,0.17,0.75,1,833.3
+46765,46765,Haryana,FARIDABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),98,0,0.61,0.8,1,0.17,0.75,1,833.3
+46784,46784,Haryana,FARIDABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),87,0,0.61,0.8,1,0.17,0.75,1,833.3
+46806,46806,Haryana,FARIDABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),52,,0.61,0.8,1,0.17,0.75,1,833.3
+46827,46827,Haryana,FARIDABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),236,0,0.61,0.8,1,0.17,0.75,1,833.3
+46847,46847,Haryana,FARIDABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),105,0,0.61,0.8,1,0.17,0.75,1,833.3
+46869,46869,Haryana,FARIDABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),210,,0.61,0.8,1,0.17,0.75,1,833.3
+46887,46887,Haryana,FARIDABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),258,,0.61,0.8,1,0.17,0.75,1,833.3
+46908,46908,Haryana,FARIDABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),178,,0.61,0.8,1,0.17,0.75,1,833.3
+46929,46929,Haryana,FARIDABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),130,,0.61,0.8,1,0.17,0.75,1,833.3
+46947,46947,Haryana,FARIDABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),5,,0.61,0.8,1,0.17,0.75,1,833.3
+46970,46970,Haryana,FARIDABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),8,,0.61,0.8,1,0.17,0.75,1,833.3
+46987,46987,Haryana,FARIDABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),57,,0.61,0.8,1,0.17,0.75,1,833.3
+47000,47000,Haryana,FARIDABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),122,,0.61,0.8,1,0.17,0.75,1,833.3
+47016,47016,Haryana,FATEHABAD,Whole Year ,medium,6,80,25,Hot-dry,Cotton(lint),108000,194000,0.61,0.8,1,0.17,0.75,1,833.3
+47020,47020,Haryana,FATEHABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),102017,162000,0.61,0.8,1,0.17,0.75,1,833.3
+47038,47038,Haryana,FATEHABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),95677,243000,0.61,0.8,1,0.17,0.75,1,833.3
+47058,47058,Haryana,FATEHABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),107704,289000,0.61,0.8,1,0.17,0.75,1,833.3
+47078,47078,Haryana,FATEHABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),114880,136000,0.61,0.8,1,0.17,0.75,1,833.3
+47095,47095,Haryana,FATEHABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),80297,170000,0.61,0.8,1,0.17,0.75,1,833.3
+47115,47115,Haryana,FATEHABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),87142,268000,0.61,0.8,1,0.17,0.75,1,833.3
+47136,47136,Haryana,FATEHABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),101065,424000,0.61,0.8,1,0.17,0.75,1,833.3
+47155,47155,Haryana,FATEHABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),94951,306000,0.61,0.8,1,0.17,0.75,1,833.3
+47175,47175,Haryana,FATEHABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),90886,373000,0.61,0.8,1,0.17,0.75,1,833.3
+47197,47197,Haryana,FATEHABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),85976,379000,0.61,0.8,1,0.17,0.75,1,833.3
+47215,47215,Haryana,FATEHABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),84341,378000,0.61,0.8,1,0.17,0.75,1,833.3
+47234,47234,Haryana,FATEHABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),85750,374000,0.61,0.8,1,0.17,0.75,1,833.3
+47252,47252,Haryana,FATEHABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),83976,308000,0.61,0.8,1,0.17,0.75,1,833.3
+47274,47274,Haryana,FATEHABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),90757,439000,0.61,0.8,1,0.17,0.75,1,833.3
+47294,47294,Haryana,FATEHABAD,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),85542,358000,0.61,0.8,1,0.17,0.75,1,833.3
+47323,47323,Haryana,GURGAON,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),113,,0.61,0.8,1,0.17,0.75,1,833.3
+47342,47342,Haryana,GURGAON,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),230,0,0.61,0.8,1,0.17,0.75,1,833.3
+47361,47361,Haryana,GURGAON,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),71,0,0.61,0.8,1,0.17,0.75,1,833.3
+47382,47382,Haryana,GURGAON,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),183,,0.61,0.8,1,0.17,0.75,1,833.3
+47404,47404,Haryana,GURGAON,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),207,0,0.61,0.8,1,0.17,0.75,1,833.3
+47426,47426,Haryana,GURGAON,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),339,0,0.61,0.8,1,0.17,0.75,1,833.3
+47447,47447,Haryana,GURGAON,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),196,,0.61,0.8,1,0.17,0.75,1,833.3
+47467,47467,Haryana,GURGAON,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),50,,0.61,0.8,1,0.17,0.75,1,833.3
+47485,47485,Haryana,GURGAON,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),48,,0.61,0.8,1,0.17,0.75,1,833.3
+47503,47503,Haryana,GURGAON,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),5,,0.61,0.8,1,0.17,0.75,1,833.3
+47519,47519,Haryana,GURGAON,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),12,,0.61,0.8,1,0.17,0.75,1,833.3
+47534,47534,Haryana,GURGAON,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),12,,0.61,0.8,1,0.17,0.75,1,833.3
+47550,47550,Haryana,GURGAON,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),8,,0.61,0.8,1,0.17,0.75,1,833.3
+47585,47585,Haryana,GURGAON,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),181,,0.61,0.8,1,0.17,0.75,1,833.3
+47604,47604,Haryana,HISAR,Whole Year ,medium,6,80,25,Hot-dry,Cotton(lint),160000,301000,0.61,0.8,1,0.17,0.75,1,833.3
+47608,47608,Haryana,HISAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),140103,207000,0.61,0.8,1,0.17,0.75,1,833.3
+47627,47627,Haryana,HISAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),135389,350000,0.61,0.8,1,0.17,0.75,1,833.3
+47646,47646,Haryana,HISAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),141906,349000,0.61,0.8,1,0.17,0.75,1,833.3
+47665,47665,Haryana,HISAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),166958,175000,0.61,0.8,1,0.17,0.75,1,833.3
+47684,47684,Haryana,HISAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),142580,330000,0.61,0.8,1,0.17,0.75,1,833.3
+47706,47706,Haryana,HISAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),141674,354000,0.61,0.8,1,0.17,0.75,1,833.3
+47729,47729,Haryana,HISAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),153627,461000,0.61,0.8,1,0.17,0.75,1,833.3
+47750,47750,Haryana,HISAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),146956,315000,0.61,0.8,1,0.17,0.75,1,833.3
+47772,47772,Haryana,HISAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),129660,396000,0.61,0.8,1,0.17,0.75,1,833.3
+47795,47795,Haryana,HISAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),118126,466000,0.61,0.8,1,0.17,0.75,1,833.3
+47816,47816,Haryana,HISAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),112152,468000,0.61,0.8,1,0.17,0.75,1,833.3
+47837,47837,Haryana,HISAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),132751,477000,0.61,0.8,1,0.17,0.75,1,833.3
+47856,47856,Haryana,HISAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),124277,431000,0.61,0.8,1,0.17,0.75,1,833.3
+47877,47877,Haryana,HISAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),153514,667000,0.61,0.8,1,0.17,0.75,1,833.3
+47895,47895,Haryana,HISAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),145604,528000,0.61,0.8,1,0.17,0.75,1,833.3
+47918,47918,Haryana,JHAJJAR,Whole Year ,medium,6,80,25,Hot-dry,Cotton(lint),2000,3000,0.61,0.8,1,0.17,0.75,1,833.3
+47922,47922,Haryana,JHAJJAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2339,3000,0.61,0.8,1,0.17,0.75,1,833.3
+47941,47941,Haryana,JHAJJAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1094,1000,0.61,0.8,1,0.17,0.75,1,833.3
+47957,47957,Haryana,JHAJJAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1577,2000,0.61,0.8,1,0.17,0.75,1,833.3
+47974,47974,Haryana,JHAJJAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1261,2000,0.61,0.8,1,0.17,0.75,1,833.3
+47991,47991,Haryana,JHAJJAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3657,4000,0.61,0.8,1,0.17,0.75,1,833.3
+48011,48011,Haryana,JHAJJAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3397,8000,0.61,0.8,1,0.17,0.75,1,833.3
+48031,48031,Haryana,JHAJJAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),5325,7000,0.61,0.8,1,0.17,0.75,1,833.3
+48049,48049,Haryana,JHAJJAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3617,7000,0.61,0.8,1,0.17,0.75,1,833.3
+48067,48067,Haryana,JHAJJAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1736,5000,0.61,0.8,1,0.17,0.75,1,833.3
+48085,48085,Haryana,JHAJJAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),923,2000,0.61,0.8,1,0.17,0.75,1,833.3
+48102,48102,Haryana,JHAJJAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),559,3000,0.61,0.8,1,0.17,0.75,1,833.3
+48119,48119,Haryana,JHAJJAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),910,3000,0.61,0.8,1,0.17,0.75,1,833.3
+48132,48132,Haryana,JHAJJAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),513,1000,0.61,0.8,1,0.17,0.75,1,833.3
+48147,48147,Haryana,JHAJJAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),952,3000,0.61,0.8,1,0.17,0.75,1,833.3
+48164,48164,Haryana,JHAJJAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2872,7000,0.61,0.8,1,0.17,0.75,1,833.3
+48189,48189,Haryana,JIND,Whole Year ,medium,6,80,25,Hot-dry,Cotton(lint),60000,102000,0.61,0.8,1,0.17,0.75,1,833.3
+48193,48193,Haryana,JIND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),45896,67000,0.61,0.8,1,0.17,0.75,1,833.3
+48212,48212,Haryana,JIND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),36705,82000,0.61,0.8,1,0.17,0.75,1,833.3
+48228,48228,Haryana,JIND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),38866,77000,0.61,0.8,1,0.17,0.75,1,833.3
+48244,48244,Haryana,JIND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),46826,77000,0.61,0.8,1,0.17,0.75,1,833.3
+48261,48261,Haryana,JIND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),37753,49000,0.61,0.8,1,0.17,0.75,1,833.3
+48280,48280,Haryana,JIND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),43210,111000,0.61,0.8,1,0.17,0.75,1,833.3
+48299,48299,Haryana,JIND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),49970,148000,0.61,0.8,1,0.17,0.75,1,833.3
+48313,48313,Haryana,JIND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),49688,129000,0.61,0.8,1,0.17,0.75,1,833.3
+48330,48330,Haryana,JIND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),45777,137000,0.61,0.8,1,0.17,0.75,1,833.3
+48346,48346,Haryana,JIND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),44338,165000,0.61,0.8,1,0.17,0.75,1,833.3
+48362,48362,Haryana,JIND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),45062,153000,0.61,0.8,1,0.17,0.75,1,833.3
+48380,48380,Haryana,JIND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),45989,141000,0.61,0.8,1,0.17,0.75,1,833.3
+48393,48393,Haryana,JIND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),47272,161000,0.61,0.8,1,0.17,0.75,1,833.3
+48411,48411,Haryana,JIND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),63012,255000,0.61,0.8,1,0.17,0.75,1,833.3
+48429,48429,Haryana,JIND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),66780,244000,0.61,0.8,1,0.17,0.75,1,833.3
+48452,48452,Haryana,KAITHAL,Whole Year ,medium,6,80,25,Hot-dry,Cotton(lint),4000,6000,0.61,0.8,1,0.17,0.75,1,833.3
+48456,48456,Haryana,KAITHAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1383,1000,0.61,0.8,1,0.17,0.75,1,833.3
+48477,48477,Haryana,KAITHAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),828,2000,0.61,0.8,1,0.17,0.75,1,833.3
+48497,48497,Haryana,KAITHAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),783,2000,0.61,0.8,1,0.17,0.75,1,833.3
+48518,48518,Haryana,KAITHAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1110,1000,0.61,0.8,1,0.17,0.75,1,833.3
+48538,48538,Haryana,KAITHAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1312,2000,0.61,0.8,1,0.17,0.75,1,833.3
+48556,48556,Haryana,KAITHAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1673,5000,0.61,0.8,1,0.17,0.75,1,833.3
+48576,48576,Haryana,KAITHAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2611,10000,0.61,0.8,1,0.17,0.75,1,833.3
+48596,48596,Haryana,KAITHAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),4012,9000,0.61,0.8,1,0.17,0.75,1,833.3
+48613,48613,Haryana,KAITHAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3122,8000,0.61,0.8,1,0.17,0.75,1,833.3
+48633,48633,Haryana,KAITHAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2418,7000,0.61,0.8,1,0.17,0.75,1,833.3
+48653,48653,Haryana,KAITHAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2524,12000,0.61,0.8,1,0.17,0.75,1,833.3
+48673,48673,Haryana,KAITHAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3475,12000,0.61,0.8,1,0.17,0.75,1,833.3
+48692,48692,Haryana,KAITHAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),4276,14000,0.61,0.8,1,0.17,0.75,1,833.3
+48712,48712,Haryana,KAITHAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),8448,37000,0.61,0.8,1,0.17,0.75,1,833.3
+48730,48730,Haryana,KAITHAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),10148,47000,0.61,0.8,1,0.17,0.75,1,833.3
+48760,48760,Haryana,KARNAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),62,,0.61,0.8,1,0.17,0.75,1,833.3
+48780,48780,Haryana,KARNAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),62,0,0.61,0.8,1,0.17,0.75,1,833.3
+48798,48798,Haryana,KARNAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),59,0,0.61,0.8,1,0.17,0.75,1,833.3
+48824,48824,Haryana,KARNAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),64,,0.61,0.8,1,0.17,0.75,1,833.3
+48868,48868,Haryana,KARNAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),46,0,0.61,0.8,1,0.17,0.75,1,833.3
+48894,48894,Haryana,KARNAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),58,,0.61,0.8,1,0.17,0.75,1,833.3
+48915,48915,Haryana,KARNAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),51,,0.61,0.8,1,0.17,0.75,1,833.3
+48934,48934,Haryana,KARNAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),27,,0.61,0.8,1,0.17,0.75,1,833.3
+48953,48953,Haryana,KARNAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),25,,0.61,0.8,1,0.17,0.75,1,833.3
+48974,48974,Haryana,KARNAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),58,,0.61,0.8,1,0.17,0.75,1,833.3
+49017,49017,Haryana,KARNAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),9,,0.61,0.8,1,0.17,0.75,1,833.3
+49041,49041,Haryana,KARNAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),27,,0.61,0.8,1,0.17,0.75,1,833.3
+49063,49063,Haryana,KARNAL,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),14,,0.61,0.8,1,0.17,0.75,1,833.3
+49092,49092,Haryana,KURUKSHETRA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3,,0.61,0.8,1,0.17,0.75,1,833.3
+49109,49109,Haryana,KURUKSHETRA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),22,0,0.61,0.8,1,0.17,0.75,1,833.3
+49127,49127,Haryana,KURUKSHETRA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2,0,0.61,0.8,1,0.17,0.75,1,833.3
+49143,49143,Haryana,KURUKSHETRA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1,,0.61,0.8,1,0.17,0.75,1,833.3
+49163,49163,Haryana,KURUKSHETRA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1,0,0.61,0.8,1,0.17,0.75,1,833.3
+49183,49183,Haryana,KURUKSHETRA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1,0,0.61,0.8,1,0.17,0.75,1,833.3
+49221,49221,Haryana,KURUKSHETRA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),11,,0.61,0.8,1,0.17,0.75,1,833.3
+49333,49333,Haryana,KURUKSHETRA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),4,,0.61,0.8,1,0.17,0.75,1,833.3
+49352,49352,Haryana,KURUKSHETRA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2,,0.61,0.8,1,0.17,0.75,1,833.3
+49379,49379,Haryana,MAHENDRAGARH,Whole Year ,medium,6,80,25,Hot-dry,Cotton(lint),7000,11000,0.61,0.8,1,0.17,0.75,1,833.3
+49382,49382,Haryana,MAHENDRAGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),7137,8000,0.61,0.8,1,0.17,0.75,1,833.3
+49400,49400,Haryana,MAHENDRAGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),4239,7000,0.61,0.8,1,0.17,0.75,1,833.3
+49414,49414,Haryana,MAHENDRAGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1493,2000,0.61,0.8,1,0.17,0.75,1,833.3
+49429,49429,Haryana,MAHENDRAGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1683,5000,0.61,0.8,1,0.17,0.75,1,833.3
+49445,49445,Haryana,MAHENDRAGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3613,5000,0.61,0.8,1,0.17,0.75,1,833.3
+49463,49463,Haryana,MAHENDRAGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),5432,18000,0.61,0.8,1,0.17,0.75,1,833.3
+49478,49478,Haryana,MAHENDRAGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),13686,29000,0.61,0.8,1,0.17,0.75,1,833.3
+49492,49492,Haryana,MAHENDRAGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),9511,11000,0.61,0.8,1,0.17,0.75,1,833.3
+49508,49508,Haryana,MAHENDRAGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),4076,8000,0.61,0.8,1,0.17,0.75,1,833.3
+49525,49525,Haryana,MAHENDRAGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1410,2000,0.61,0.8,1,0.17,0.75,1,833.3
+49538,49538,Haryana,MAHENDRAGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),898,2000,0.61,0.8,1,0.17,0.75,1,833.3
+49552,49552,Haryana,MAHENDRAGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),898,2000,0.61,0.8,1,0.17,0.75,1,833.3
+49572,49572,Haryana,MAHENDRAGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),566,4000,0.61,0.8,1,0.17,0.75,1,833.3
+49593,49593,Haryana,MAHENDRAGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1921,5000,0.61,0.8,1,0.17,0.75,1,833.3
+49611,49611,Haryana,MAHENDRAGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),4461,10000,0.61,0.8,1,0.17,0.75,1,833.3
+49622,49622,Haryana,MEWAT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),85,,0.61,0.8,1,0.17,0.75,1,833.3
+49642,49642,Haryana,MEWAT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),41,,0.61,0.8,1,0.17,0.75,1,833.3
+49661,49661,Haryana,MEWAT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),27,,0.61,0.8,1,0.17,0.75,1,833.3
+49678,49678,Haryana,MEWAT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),20,,0.61,0.8,1,0.17,0.75,1,833.3
+49695,49695,Haryana,MEWAT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),15,,0.61,0.8,1,0.17,0.75,1,833.3
+49708,49708,Haryana,MEWAT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),7,,0.61,0.8,1,0.17,0.75,1,833.3
+49725,49725,Haryana,MEWAT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),53,,0.61,0.8,1,0.17,0.75,1,833.3
+49741,49741,Haryana,MEWAT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),79,,0.61,0.8,1,0.17,0.75,1,833.3
+49757,49757,Haryana,PALWAL,Kharif     ,medium,6,80,25,Composite,Cotton(lint),173,,0.61,0.8,1,0.17,0.75,1,833.3
+49774,49774,Haryana,PALWAL,Kharif     ,medium,6,80,25,Composite,Cotton(lint),341,,0.61,0.8,1,0.17,0.75,1,833.3
+49790,49790,Haryana,PALWAL,Kharif     ,medium,6,80,25,Composite,Cotton(lint),360,,0.61,0.8,1,0.17,0.75,1,833.3
+49805,49805,Haryana,PALWAL,Kharif     ,medium,6,80,25,Composite,Cotton(lint),326,,0.61,0.8,1,0.17,0.75,1,833.3
+49820,49820,Haryana,PALWAL,Kharif     ,medium,6,80,25,Composite,Cotton(lint),876,4000,0.61,0.8,1,0.17,0.75,1,833.3
+49843,49843,Haryana,PANCHKULA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),56,,0.61,0.8,1,0.17,0.75,1,833.3
+49863,49863,Haryana,PANCHKULA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),49,,0.61,0.8,1,0.17,0.75,1,833.3
+49883,49883,Haryana,PANCHKULA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),19,0,0.61,0.8,1,0.17,0.75,1,833.3
+49906,49906,Haryana,PANCHKULA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),19,,0.61,0.8,1,0.17,0.75,1,833.3
+49926,49926,Haryana,PANCHKULA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),16,0,0.61,0.8,1,0.17,0.75,1,833.3
+49946,49946,Haryana,PANCHKULA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),11,0,0.61,0.8,1,0.17,0.75,1,833.3
+49969,49969,Haryana,PANCHKULA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),4,,0.61,0.8,1,0.17,0.75,1,833.3
+49991,49991,Haryana,PANCHKULA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),17,,0.61,0.8,1,0.17,0.75,1,833.3
+50010,50010,Haryana,PANCHKULA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),3,,0.61,0.8,1,0.17,0.75,1,833.3
+50032,50032,Haryana,PANCHKULA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),9,,0.61,0.8,1,0.17,0.75,1,833.3
+50054,50054,Haryana,PANCHKULA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),3,,0.61,0.8,1,0.17,0.75,1,833.3
+50075,50075,Haryana,PANCHKULA,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),2,,0.61,0.8,1,0.17,0.75,1,833.3
+50166,50166,Haryana,PANIPAT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),138,,0.61,0.8,1,0.17,0.75,1,833.3
+50186,50186,Haryana,PANIPAT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),93,0,0.61,0.8,1,0.17,0.75,1,833.3
+50203,50203,Haryana,PANIPAT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),56,0,0.61,0.8,1,0.17,0.75,1,833.3
+50224,50224,Haryana,PANIPAT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),41,,0.61,0.8,1,0.17,0.75,1,833.3
+50244,50244,Haryana,PANIPAT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),72,0,0.61,0.8,1,0.17,0.75,1,833.3
+50267,50267,Haryana,PANIPAT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),222,0,0.61,0.8,1,0.17,0.75,1,833.3
+50293,50293,Haryana,PANIPAT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),67,,0.61,0.8,1,0.17,0.75,1,833.3
+50313,50313,Haryana,PANIPAT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),56,,0.61,0.8,1,0.17,0.75,1,833.3
+50332,50332,Haryana,PANIPAT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),48,,0.61,0.8,1,0.17,0.75,1,833.3
+50354,50354,Haryana,PANIPAT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),31,,0.61,0.8,1,0.17,0.75,1,833.3
+50372,50372,Haryana,PANIPAT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),22,,0.61,0.8,1,0.17,0.75,1,833.3
+50392,50392,Haryana,PANIPAT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),17,,0.61,0.8,1,0.17,0.75,1,833.3
+50412,50412,Haryana,PANIPAT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),35,,0.61,0.8,1,0.17,0.75,1,833.3
+50435,50435,Haryana,PANIPAT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),54,,0.61,0.8,1,0.17,0.75,1,833.3
+50455,50455,Haryana,PANIPAT,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),66,,0.61,0.8,1,0.17,0.75,1,833.3
+50480,50480,Haryana,REWARI,Whole Year ,medium,6,80,25,Hot-dry,Cotton(lint),2000,3000,0.61,0.8,1,0.17,0.75,1,833.3
+50483,50483,Haryana,REWARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2523,3000,0.61,0.8,1,0.17,0.75,1,833.3
+50502,50502,Haryana,REWARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2364,3000,0.61,0.8,1,0.17,0.75,1,833.3
+50521,50521,Haryana,REWARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1628,5000,0.61,0.8,1,0.17,0.75,1,833.3
+50539,50539,Haryana,REWARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1777,3000,0.61,0.8,1,0.17,0.75,1,833.3
+50559,50559,Haryana,REWARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2103,3000,0.61,0.8,1,0.17,0.75,1,833.3
+50580,50580,Haryana,REWARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),4318,12000,0.61,0.8,1,0.17,0.75,1,833.3
+50601,50601,Haryana,REWARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),7794,27000,0.61,0.8,1,0.17,0.75,1,833.3
+50619,50619,Haryana,REWARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),5934,12000,0.61,0.8,1,0.17,0.75,1,833.3
+50637,50637,Haryana,REWARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2886,6000,0.61,0.8,1,0.17,0.75,1,833.3
+50655,50655,Haryana,REWARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1302,3000,0.61,0.8,1,0.17,0.75,1,833.3
+50672,50672,Haryana,REWARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1019,2000,0.61,0.8,1,0.17,0.75,1,833.3
+50691,50691,Haryana,REWARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),594,1000,0.61,0.8,1,0.17,0.75,1,833.3
+50709,50709,Haryana,REWARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),478,3000,0.61,0.8,1,0.17,0.75,1,833.3
+50726,50726,Haryana,REWARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1074,2000,0.61,0.8,1,0.17,0.75,1,833.3
+50745,50745,Haryana,REWARI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1788,6000,0.61,0.8,1,0.17,0.75,1,833.3
+50767,50767,Haryana,ROHTAK,Whole Year ,medium,6,80,25,Hot-dry,Cotton(lint),6000,5000,0.61,0.8,1,0.17,0.75,1,833.3
+50771,50771,Haryana,ROHTAK,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),13312,16000,0.61,0.8,1,0.17,0.75,1,833.3
+50793,50793,Haryana,ROHTAK,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),11525,21000,0.61,0.8,1,0.17,0.75,1,833.3
+50812,50812,Haryana,ROHTAK,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),12825,15000,0.61,0.8,1,0.17,0.75,1,833.3
+50831,50831,Haryana,ROHTAK,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),13729,10000,0.61,0.8,1,0.17,0.75,1,833.3
+50851,50851,Haryana,ROHTAK,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),13675,17000,0.61,0.8,1,0.17,0.75,1,833.3
+50872,50872,Haryana,ROHTAK,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),11472,20000,0.61,0.8,1,0.17,0.75,1,833.3
+50893,50893,Haryana,ROHTAK,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),13053,23000,0.61,0.8,1,0.17,0.75,1,833.3
+50911,50911,Haryana,ROHTAK,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),12854,23000,0.61,0.8,1,0.17,0.75,1,833.3
+50926,50926,Haryana,ROHTAK,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),8702,22000,0.61,0.8,1,0.17,0.75,1,833.3
+50942,50942,Haryana,ROHTAK,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),7762,21000,0.61,0.8,1,0.17,0.75,1,833.3
+50959,50959,Haryana,ROHTAK,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),6527,16000,0.61,0.8,1,0.17,0.75,1,833.3
+50974,50974,Haryana,ROHTAK,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),7836,17000,0.61,0.8,1,0.17,0.75,1,833.3
+50989,50989,Haryana,ROHTAK,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),7197,13000,0.61,0.8,1,0.17,0.75,1,833.3
+51006,51006,Haryana,ROHTAK,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),9869,37000,0.61,0.8,1,0.17,0.75,1,833.3
+51023,51023,Haryana,ROHTAK,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),10757,35000,0.61,0.8,1,0.17,0.75,1,833.3
+51043,51043,Haryana,SIRSA,Whole Year ,medium,6,80,25,Hot-dry,Cotton(lint),225000,394000,0.61,0.8,1,0.17,0.75,1,833.3
+51046,51046,Haryana,SIRSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),211952,309000,0.61,0.8,1,0.17,0.75,1,833.3
+51065,51065,Haryana,SIRSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),204127,472000,0.61,0.8,1,0.17,0.75,1,833.3
+51082,51082,Haryana,SIRSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),199970,164700,0.61,0.8,1,0.17,0.75,1,833.3
+51102,51102,Haryana,SIRSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),215369,232000,0.61,0.8,1,0.17,0.75,1,833.3
+51121,51121,Haryana,SIRSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),166003,368000,0.61,0.8,1,0.17,0.75,1,833.3
+51139,51139,Haryana,SIRSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),163128,488000,0.61,0.8,1,0.17,0.75,1,833.3
+51160,51160,Haryana,SIRSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),198560,763000,0.61,0.8,1,0.17,0.75,1,833.3
+51177,51177,Haryana,SIRSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),193063,581000,0.61,0.8,1,0.17,0.75,1,833.3
+51198,51198,Haryana,SIRSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),190436,745000,0.61,0.8,1,0.17,0.75,1,833.3
+51221,51221,Haryana,SIRSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),181552,734000,0.61,0.8,1,0.17,0.75,1,833.3
+51244,51244,Haryana,SIRSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),172300,754000,0.61,0.8,1,0.17,0.75,1,833.3
+51267,51267,Haryana,SIRSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),193075,801000,0.61,0.8,1,0.17,0.75,1,833.3
+51288,51288,Haryana,SIRSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),189006,706000,0.61,0.8,1,0.17,0.75,1,833.3
+51308,51308,Haryana,SIRSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),211317,956000,0.61,0.8,1,0.17,0.75,1,833.3
+51331,51331,Haryana,SIRSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),198745,899000,0.61,0.8,1,0.17,0.75,1,833.3
+51355,51355,Haryana,SONIPAT,Whole Year ,medium,6,80,25,Warm-humid,Cotton(lint),2000,3000,0.61,0.8,1,0.17,0.75,1,833.3
+51359,51359,Haryana,SONIPAT,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1056,1000,0.61,0.8,1,0.17,0.75,1,833.3
+51378,51378,Haryana,SONIPAT,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),699,1000,0.61,0.8,1,0.17,0.75,1,833.3
+51395,51395,Haryana,SONIPAT,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),825,2000,0.61,0.8,1,0.17,0.75,1,833.3
+51415,51415,Haryana,SONIPAT,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),818,1000,0.61,0.8,1,0.17,0.75,1,833.3
+51435,51435,Haryana,SONIPAT,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),2157,6000,0.61,0.8,1,0.17,0.75,1,833.3
+51459,51459,Haryana,SONIPAT,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1952,2000,0.61,0.8,1,0.17,0.75,1,833.3
+51485,51485,Haryana,SONIPAT,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1952,7000,0.61,0.8,1,0.17,0.75,1,833.3
+51507,51507,Haryana,SONIPAT,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),2170,4000,0.61,0.8,1,0.17,0.75,1,833.3
+51528,51528,Haryana,SONIPAT,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1443,2000,0.61,0.8,1,0.17,0.75,1,833.3
+51547,51547,Haryana,SONIPAT,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1098,4000,0.61,0.8,1,0.17,0.75,1,833.3
+51568,51568,Haryana,SONIPAT,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),582,,0.61,0.8,1,0.17,0.75,1,833.3
+51587,51587,Haryana,SONIPAT,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),579,2000,0.61,0.8,1,0.17,0.75,1,833.3
+51605,51605,Haryana,SONIPAT,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),357,,0.61,0.8,1,0.17,0.75,1,833.3
+51624,51624,Haryana,SONIPAT,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),804,4000,0.61,0.8,1,0.17,0.75,1,833.3
+51642,51642,Haryana,SONIPAT,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1987,9000,0.61,0.8,1,0.17,0.75,1,833.3
+51666,51666,Haryana,YAMUNANAGAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),102,,0.61,0.8,1,0.17,0.75,1,833.3
+51685,51685,Haryana,YAMUNANAGAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),33,,0.61,0.8,1,0.17,0.75,1,833.3
+51704,51704,Haryana,YAMUNANAGAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),11,0,0.61,0.8,1,0.17,0.75,1,833.3
+51727,51727,Haryana,YAMUNANAGAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),5,,0.61,0.8,1,0.17,0.75,1,833.3
+51747,51747,Haryana,YAMUNANAGAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),2,0,0.61,0.8,1,0.17,0.75,1,833.3
+51769,51769,Haryana,YAMUNANAGAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),3,0,0.61,0.8,1,0.17,0.75,1,833.3
+51793,51793,Haryana,YAMUNANAGAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),5,,0.61,0.8,1,0.17,0.75,1,833.3
+51813,51813,Haryana,YAMUNANAGAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),1,,0.61,0.8,1,0.17,0.75,1,833.3
+51833,51833,Haryana,YAMUNANAGAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),2,,0.61,0.8,1,0.17,0.75,1,833.3
+51854,51854,Haryana,YAMUNANAGAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),4,,0.61,0.8,1,0.17,0.75,1,833.3
+51876,51876,Haryana,YAMUNANAGAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),8,,0.61,0.8,1,0.17,0.75,1,833.3
+51899,51899,Haryana,YAMUNANAGAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),7,,0.61,0.8,1,0.17,0.75,1,833.3
+51918,51918,Haryana,YAMUNANAGAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),1,,0.61,0.8,1,0.17,0.75,1,833.3
+51983,51983,Rajasthan,AJMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),16000,31176,1,0.49,1,0.34,1,1,653.3
+51999,51999,Rajasthan,AJMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),15031,2145,1,0.49,1,0.34,1,1,653.3
+52029,52029,Rajasthan,AJMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),14384,1932,1,0.49,1,0.34,1,1,653.3
+52061,52061,Rajasthan,AJMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),8155,12341,1,0.49,1,0.34,1,1,653.3
+52090,52090,Rajasthan,AJMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),11586,21106,1,0.49,1,0.34,1,1,653.3
+52122,52122,Rajasthan,AJMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),9175,4482,1,0.49,1,0.34,1,1,653.3
+52156,52156,Rajasthan,AJMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),6139,8970,1,0.49,1,0.34,1,1,653.3
+52193,52193,Rajasthan,AJMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),12327,24170,1,0.49,1,0.34,1,1,653.3
+52221,52221,Rajasthan,AJMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),10406,10488,1,0.49,1,0.34,1,1,653.3
+52250,52250,Rajasthan,AJMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),5612,2028,1,0.49,1,0.34,1,1,653.3
+52278,52278,Rajasthan,AJMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),5133,2163,1,0.49,1,0.34,1,1,653.3
+52305,52305,Rajasthan,AJMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),6328,1861,1,0.49,1,0.34,1,1,653.3
+52335,52335,Rajasthan,AJMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),6450,764,1,0.49,1,0.34,1,1,653.3
+52364,52364,Rajasthan,AJMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3281,967,1,0.49,1,0.34,1,1,653.3
+52393,52393,Rajasthan,ALWAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),10400,11764,1,0.49,1,0.34,1,1,653.3
+52408,52408,Rajasthan,ALWAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),15128,3419,1,0.49,1,0.34,1,1,653.3
+52438,52438,Rajasthan,ALWAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),14519,3373,1,0.49,1,0.34,1,1,653.3
+52473,52473,Rajasthan,ALWAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),9840,17247,1,0.49,1,0.34,1,1,653.3
+52504,52504,Rajasthan,ALWAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),15696,15482,1,0.49,1,0.34,1,1,653.3
+52535,52535,Rajasthan,ALWAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),13865,23382,1,0.49,1,0.34,1,1,653.3
+52574,52574,Rajasthan,ALWAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),19364,40135,1,0.49,1,0.34,1,1,653.3
+52615,52615,Rajasthan,ALWAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),29522,54700,1,0.49,1,0.34,1,1,653.3
+52646,52646,Rajasthan,ALWAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),19243,30111,1,0.49,1,0.34,1,1,653.3
+52676,52676,Rajasthan,ALWAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),7230,3034,1,0.49,1,0.34,1,1,653.3
+52705,52705,Rajasthan,ALWAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2973,1073,1,0.49,1,0.34,1,1,653.3
+52736,52736,Rajasthan,ALWAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2372,949,1,0.49,1,0.34,1,1,653.3
+52767,52767,Rajasthan,ALWAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),4326,1686,1,0.49,1,0.34,1,1,653.3
+52798,52798,Rajasthan,ALWAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3677,1540,1,0.49,1,0.34,1,1,653.3
+52828,52828,Rajasthan,BANSWARA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),8300,15882,1,0.49,1,0.34,1,1,653.3
+52843,52843,Rajasthan,BANSWARA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),7992,1425,1,0.49,1,0.34,1,1,653.3
+52872,52872,Rajasthan,BANSWARA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),8821,2179,1,0.49,1,0.34,1,1,653.3
+52905,52905,Rajasthan,BANSWARA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),10868,8864,1,0.49,1,0.34,1,1,653.3
+52934,52934,Rajasthan,BANSWARA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),11969,10488,1,0.49,1,0.34,1,1,653.3
+52965,52965,Rajasthan,BANSWARA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),11968,4576,1,0.49,1,0.34,1,1,653.3
+52999,52999,Rajasthan,BANSWARA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),12391,36929,1,0.49,1,0.34,1,1,653.3
+53036,53036,Rajasthan,BANSWARA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),15656,25141,1,0.49,1,0.34,1,1,653.3
+53067,53067,Rajasthan,BANSWARA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),14147,31705,1,0.49,1,0.34,1,1,653.3
+53098,53098,Rajasthan,BANSWARA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),13193,2458,1,0.49,1,0.34,1,1,653.3
+53130,53130,Rajasthan,BANSWARA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),11365,3219,1,0.49,1,0.34,1,1,653.3
+53161,53161,Rajasthan,BANSWARA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),10390,2476,1,0.49,1,0.34,1,1,653.3
+53189,53189,Rajasthan,BANSWARA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),11021,3304,1,0.49,1,0.34,1,1,653.3
+53218,53218,Rajasthan,BANSWARA,Kharif     ,medium,6,80,25,Composite,Cotton(lint),11308,4318,1,0.49,1,0.34,1,1,653.3
+53573,53573,Rajasthan,BARAN,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1,,1,0.49,1,0.34,1,1,653.3
+53605,53605,Rajasthan,BARAN,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),38,13,1,0.49,1,0.34,1,1,653.3
+53633,53633,Rajasthan,BARAN,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2,1,1,0.49,1,0.34,1,1,653.3
+53670,53670,Rajasthan,BARMER,Kharif     ,medium,6,80,25,Composite,Cotton(lint),166,38,1,0.49,1,0.34,1,1,653.3
+53688,53688,Rajasthan,BARMER,Kharif     ,medium,6,80,25,Composite,Cotton(lint),90,26,1,0.49,1,0.34,1,1,653.3
+53708,53708,Rajasthan,BARMER,Kharif     ,medium,6,80,25,Composite,Cotton(lint),16,24,1,0.49,1,0.34,1,1,653.3
+53728,53728,Rajasthan,BARMER,Kharif     ,medium,6,80,25,Composite,Cotton(lint),25,12,1,0.49,1,0.34,1,1,653.3
+53771,53771,Rajasthan,BARMER,Kharif     ,medium,6,80,25,Composite,Cotton(lint),1,,1,0.49,1,0.34,1,1,653.3
+53796,53796,Rajasthan,BARMER,Kharif     ,medium,6,80,25,Composite,Cotton(lint),3,5,1,0.49,1,0.34,1,1,653.3
+53816,53816,Rajasthan,BARMER,Kharif     ,medium,6,80,25,Composite,Cotton(lint),3,5,1,0.49,1,0.34,1,1,653.3
+53834,53834,Rajasthan,BARMER,Kharif     ,medium,6,80,25,Composite,Cotton(lint),14,5,1,0.49,1,0.34,1,1,653.3
+53854,53854,Rajasthan,BARMER,Kharif     ,medium,6,80,25,Composite,Cotton(lint),5,2,1,0.49,1,0.34,1,1,653.3
+53874,53874,Rajasthan,BARMER,Kharif     ,medium,6,80,25,Composite,Cotton(lint),14,6,1,0.49,1,0.34,1,1,653.3
+53895,53895,Rajasthan,BARMER,Kharif     ,medium,6,80,25,Composite,Cotton(lint),10,3,1,0.49,1,0.34,1,1,653.3
+53913,53913,Rajasthan,BARMER,Kharif     ,medium,6,80,25,Composite,Cotton(lint),9,4,1,0.49,1,0.34,1,1,653.3
+53933,53933,Rajasthan,BHARATPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),900,1176,1,0.49,1,0.34,1,1,653.3
+53949,53949,Rajasthan,BHARATPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1084,249,1,0.49,1,0.34,1,1,653.3
+53981,53981,Rajasthan,BHARATPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1015,291,1,0.49,1,0.34,1,1,653.3
+54015,54015,Rajasthan,BHARATPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),607,959,1,0.49,1,0.34,1,1,653.3
+54047,54047,Rajasthan,BHARATPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1110,612,1,0.49,1,0.34,1,1,653.3
+54077,54077,Rajasthan,BHARATPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),799,524,1,0.49,1,0.34,1,1,653.3
+54116,54116,Rajasthan,BHARATPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),860,1776,1,0.49,1,0.34,1,1,653.3
+54155,54155,Rajasthan,BHARATPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1595,2788,1,0.49,1,0.34,1,1,653.3
+54186,54186,Rajasthan,BHARATPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1433,2676,1,0.49,1,0.34,1,1,653.3
+54215,54215,Rajasthan,BHARATPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),492,179,1,0.49,1,0.34,1,1,653.3
+54244,54244,Rajasthan,BHARATPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),306,122,1,0.49,1,0.34,1,1,653.3
+54275,54275,Rajasthan,BHARATPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),125,51,1,0.49,1,0.34,1,1,653.3
+54306,54306,Rajasthan,BHARATPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),149,52,1,0.49,1,0.34,1,1,653.3
+54334,54334,Rajasthan,BHARATPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),97,42,1,0.49,1,0.34,1,1,653.3
+54361,54361,Rajasthan,BHILWARA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),23100,41764,1,0.49,1,0.34,1,1,653.3
+54378,54378,Rajasthan,BHILWARA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),18330,5242,1,0.49,1,0.34,1,1,653.3
+54410,54410,Rajasthan,BHILWARA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),11821,1935,1,0.49,1,0.34,1,1,653.3
+54444,54444,Rajasthan,BHILWARA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),7427,9059,1,0.49,1,0.34,1,1,653.3
+54476,54476,Rajasthan,BHILWARA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),6731,6547,1,0.49,1,0.34,1,1,653.3
+54509,54509,Rajasthan,BHILWARA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),10641,2965,1,0.49,1,0.34,1,1,653.3
+54548,54548,Rajasthan,BHILWARA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),6599,8152,1,0.49,1,0.34,1,1,653.3
+54588,54588,Rajasthan,BHILWARA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),9811,10947,1,0.49,1,0.34,1,1,653.3
+54621,54621,Rajasthan,BHILWARA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),12843,20447,1,0.49,1,0.34,1,1,653.3
+54651,54651,Rajasthan,BHILWARA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),6454,1573,1,0.49,1,0.34,1,1,653.3
+54685,54685,Rajasthan,BHILWARA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),8311,3721,1,0.49,1,0.34,1,1,653.3
+54717,54717,Rajasthan,BHILWARA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),15949,3485,1,0.49,1,0.34,1,1,653.3
+54748,54748,Rajasthan,BHILWARA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),23339,2666,1,0.49,1,0.34,1,1,653.3
+54779,54779,Rajasthan,BHILWARA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),12909,5422,1,0.49,1,0.34,1,1,653.3
+54807,54807,Rajasthan,BIKANER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),32000,37058,1,0.49,1,0.34,1,1,653.3
+54818,54818,Rajasthan,BIKANER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),35756,12372,1,0.49,1,0.34,1,1,653.3
+54840,54840,Rajasthan,BIKANER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),35878,7774,1,0.49,1,0.34,1,1,653.3
+54862,54862,Rajasthan,BIKANER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),30688,31470,1,0.49,1,0.34,1,1,653.3
+54886,54886,Rajasthan,BIKANER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),17339,11765,1,0.49,1,0.34,1,1,653.3
+54912,54912,Rajasthan,BIKANER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),12749,1124,1,0.49,1,0.34,1,1,653.3
+54941,54941,Rajasthan,BIKANER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),9986,11476,1,0.49,1,0.34,1,1,653.3
+54974,54974,Rajasthan,BIKANER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),5906,6405,1,0.49,1,0.34,1,1,653.3
+54998,54998,Rajasthan,BIKANER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),14701,27382,1,0.49,1,0.34,1,1,653.3
+55025,55025,Rajasthan,BIKANER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),4259,1421,1,0.49,1,0.34,1,1,653.3
+55051,55051,Rajasthan,BIKANER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),4346,1384,1,0.49,1,0.34,1,1,653.3
+55075,55075,Rajasthan,BIKANER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),794,272,1,0.49,1,0.34,1,1,653.3
+55101,55101,Rajasthan,BIKANER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),5132,315,1,0.49,1,0.34,1,1,653.3
+55122,55122,Rajasthan,BIKANER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),514,149,1,0.49,1,0.34,1,1,653.3
+55161,55161,Rajasthan,BUNDI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),11,3,1,0.49,1,0.34,1,1,653.3
+55191,55191,Rajasthan,BUNDI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),33,9,1,0.49,1,0.34,1,1,653.3
+55223,55223,Rajasthan,BUNDI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),23,35,1,0.49,1,0.34,1,1,653.3
+55256,55256,Rajasthan,BUNDI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),110,59,1,0.49,1,0.34,1,1,653.3
+55289,55289,Rajasthan,BUNDI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),39,24,1,0.49,1,0.34,1,1,653.3
+55325,55325,Rajasthan,BUNDI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),24,47,1,0.49,1,0.34,1,1,653.3
+55364,55364,Rajasthan,BUNDI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),54,94,1,0.49,1,0.34,1,1,653.3
+55394,55394,Rajasthan,BUNDI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),12,23,1,0.49,1,0.34,1,1,653.3
+55423,55423,Rajasthan,BUNDI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),7,3,1,0.49,1,0.34,1,1,653.3
+55482,55482,Rajasthan,BUNDI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),10,4,1,0.49,1,0.34,1,1,653.3
+55510,55510,Rajasthan,BUNDI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),6,2,1,0.49,1,0.34,1,1,653.3
+55539,55539,Rajasthan,BUNDI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3,1,1,0.49,1,0.34,1,1,653.3
+55566,55566,Rajasthan,CHITTORGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),900,1176,1,0.49,1,0.34,1,1,653.3
+55583,55583,Rajasthan,CHITTORGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),858,197,1,0.49,1,0.34,1,1,653.3
+55616,55616,Rajasthan,CHITTORGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),650,186,1,0.49,1,0.34,1,1,653.3
+55650,55650,Rajasthan,CHITTORGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),952,1506,1,0.49,1,0.34,1,1,653.3
+55686,55686,Rajasthan,CHITTORGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1090,600,1,0.49,1,0.34,1,1,653.3
+55722,55722,Rajasthan,CHITTORGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1523,994,1,0.49,1,0.34,1,1,653.3
+55760,55760,Rajasthan,CHITTORGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1519,3135,1,0.49,1,0.34,1,1,653.3
+55800,55800,Rajasthan,CHITTORGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3480,6076,1,0.49,1,0.34,1,1,653.3
+55831,55831,Rajasthan,CHITTORGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3091,5770,1,0.49,1,0.34,1,1,653.3
+55863,55863,Rajasthan,CHITTORGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2744,555,1,0.49,1,0.34,1,1,653.3
+55896,55896,Rajasthan,CHITTORGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2533,538,1,0.49,1,0.34,1,1,653.3
+55929,55929,Rajasthan,CHITTORGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2766,1128,1,0.49,1,0.34,1,1,653.3
+55961,55961,Rajasthan,CHITTORGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),8590,2967,1,0.49,1,0.34,1,1,653.3
+55991,55991,Rajasthan,CHITTORGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),5948,3742,1,0.49,1,0.34,1,1,653.3
+56021,56021,Rajasthan,CHURU,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),300,588,1,0.49,1,0.34,1,1,653.3
+56031,56031,Rajasthan,CHURU,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),217,50,1,0.49,1,0.34,1,1,653.3
+56056,56056,Rajasthan,CHURU,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),347,100,1,0.49,1,0.34,1,1,653.3
+56078,56078,Rajasthan,CHURU,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),144,229,1,0.49,1,0.34,1,1,653.3
+56098,56098,Rajasthan,CHURU,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),340,188,1,0.49,1,0.34,1,1,653.3
+56119,56119,Rajasthan,CHURU,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),469,306,1,0.49,1,0.34,1,1,653.3
+56140,56140,Rajasthan,CHURU,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),421,870,1,0.49,1,0.34,1,1,653.3
+56165,56165,Rajasthan,CHURU,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),612,1070,1,0.49,1,0.34,1,1,653.3
+56186,56186,Rajasthan,CHURU,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),360,670,1,0.49,1,0.34,1,1,653.3
+56203,56203,Rajasthan,CHURU,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),55,20,1,0.49,1,0.34,1,1,653.3
+56222,56222,Rajasthan,CHURU,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),9,4,1,0.49,1,0.34,1,1,653.3
+56239,56239,Rajasthan,CHURU,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),3,1,1,0.49,1,0.34,1,1,653.3
+56257,56257,Rajasthan,CHURU,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),6,2,1,0.49,1,0.34,1,1,653.3
+56275,56275,Rajasthan,CHURU,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),4,2,1,0.49,1,0.34,1,1,653.3
+56304,56304,Rajasthan,DAUSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),22,5,1,0.49,1,0.34,1,1,653.3
+56333,56333,Rajasthan,DAUSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),45,13,1,0.49,1,0.34,1,1,653.3
+56363,56363,Rajasthan,DAUSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),28,41,1,0.49,1,0.34,1,1,653.3
+56393,56393,Rajasthan,DAUSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),4,0,1,0.49,1,0.34,1,1,653.3
+56422,56422,Rajasthan,DAUSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),32,24,1,0.49,1,0.34,1,1,653.3
+56454,56454,Rajasthan,DAUSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),45,94,1,0.49,1,0.34,1,1,653.3
+56489,56489,Rajasthan,DAUSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),66,111,1,0.49,1,0.34,1,1,653.3
+56518,56518,Rajasthan,DAUSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),36,64,1,0.49,1,0.34,1,1,653.3
+56545,56545,Rajasthan,DAUSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),8,3,1,0.49,1,0.34,1,1,653.3
+56572,56572,Rajasthan,DAUSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),95,38,1,0.49,1,0.34,1,1,653.3
+56600,56600,Rajasthan,DAUSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),26,10,1,0.49,1,0.34,1,1,653.3
+56627,56627,Rajasthan,DAUSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),101,35,1,0.49,1,0.34,1,1,653.3
+56652,56652,Rajasthan,DAUSA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),18,8,1,0.49,1,0.34,1,1,653.3
+56721,56721,Rajasthan,DHOLPUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),4,1,1,0.49,1,0.34,1,1,653.3
+56753,56753,Rajasthan,DHOLPUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),4,6,1,0.49,1,0.34,1,1,653.3
+56781,56781,Rajasthan,DHOLPUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),2,0,1,0.49,1,0.34,1,1,653.3
+56812,56812,Rajasthan,DHOLPUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),52,35,1,0.49,1,0.34,1,1,653.3
+56841,56841,Rajasthan,DHOLPUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),14,29,1,0.49,1,0.34,1,1,653.3
+56876,56876,Rajasthan,DHOLPUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),12,23,1,0.49,1,0.34,1,1,653.3
+56905,56905,Rajasthan,DHOLPUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),1,,1,0.49,1,0.34,1,1,653.3
+56959,56959,Rajasthan,DHOLPUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),1,,1,0.49,1,0.34,1,1,653.3
+57013,57013,Rajasthan,DHOLPUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),6,2,1,0.49,1,0.34,1,1,653.3
+57041,57041,Rajasthan,DHOLPUR,Kharif     ,medium,6,80,25,Composite,Cotton(lint),7,3,1,0.49,1,0.34,1,1,653.3
+57081,57081,Rajasthan,DUNGARPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),138,32,1,0.49,1,0.34,1,1,653.3
+57107,57107,Rajasthan,DUNGARPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),119,34,1,0.49,1,0.34,1,1,653.3
+57137,57137,Rajasthan,DUNGARPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),100,159,1,0.49,1,0.34,1,1,653.3
+57166,57166,Rajasthan,DUNGARPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),118,65,1,0.49,1,0.34,1,1,653.3
+57195,57195,Rajasthan,DUNGARPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),113,76,1,0.49,1,0.34,1,1,653.3
+57225,57225,Rajasthan,DUNGARPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),128,264,1,0.49,1,0.34,1,1,653.3
+57258,57258,Rajasthan,DUNGARPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),547,952,1,0.49,1,0.34,1,1,653.3
+57287,57287,Rajasthan,DUNGARPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),391,729,1,0.49,1,0.34,1,1,653.3
+57314,57314,Rajasthan,DUNGARPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),332,121,1,0.49,1,0.34,1,1,653.3
+57343,57343,Rajasthan,DUNGARPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),371,147,1,0.49,1,0.34,1,1,653.3
+57371,57371,Rajasthan,DUNGARPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),393,160,1,0.49,1,0.34,1,1,653.3
+57399,57399,Rajasthan,DUNGARPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),423,146,1,0.49,1,0.34,1,1,653.3
+57428,57428,Rajasthan,DUNGARPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),463,201,1,0.49,1,0.34,1,1,653.3
+57454,57454,Rajasthan,GANGANAGAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),286900,365294,1,0.49,1,0.34,1,1,653.3
+57469,57469,Rajasthan,GANGANAGAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),291897,65093,1,0.49,1,0.34,1,1,653.3
+57499,57499,Rajasthan,GANGANAGAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),272002,79696,1,0.49,1,0.34,1,1,653.3
+57529,57529,Rajasthan,GANGANAGAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),247275,382547,1,0.49,1,0.34,1,1,653.3
+57557,57557,Rajasthan,GANGANAGAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),228737,81176,1,0.49,1,0.34,1,1,653.3
+57584,57584,Rajasthan,GANGANAGAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),177285,116800,1,0.49,1,0.34,1,1,653.3
+57621,57621,Rajasthan,GANGANAGAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),142029,262611,1,0.49,1,0.34,1,1,653.3
+57661,57661,Rajasthan,GANGANAGAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),153670,202782,1,0.49,1,0.34,1,1,653.3
+57690,57690,Rajasthan,GANGANAGAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),196235,312435,1,0.49,1,0.34,1,1,653.3
+57717,57717,Rajasthan,GANGANAGAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),140088,47909,1,0.49,1,0.34,1,1,653.3
+57745,57745,Rajasthan,GANGANAGAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),150590,54067,1,0.49,1,0.34,1,1,653.3
+57772,57772,Rajasthan,GANGANAGAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),94702,37928,1,0.49,1,0.34,1,1,653.3
+57801,57801,Rajasthan,GANGANAGAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),163732,52042,1,0.49,1,0.34,1,1,653.3
+57831,57831,Rajasthan,GANGANAGAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),97362,39232,1,0.49,1,0.34,1,1,653.3
+57857,57857,Rajasthan,HANUMANGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),215000,268235,1,0.49,1,0.34,1,1,653.3
+57872,57872,Rajasthan,HANUMANGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),201201,42386,1,0.49,1,0.34,1,1,653.3
+57900,57900,Rajasthan,HANUMANGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),173551,54958,1,0.49,1,0.34,1,1,653.3
+57929,57929,Rajasthan,HANUMANGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),165145,294347,1,0.49,1,0.34,1,1,653.3
+57956,57956,Rajasthan,HANUMANGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),179476,62288,1,0.49,1,0.34,1,1,653.3
+57983,57983,Rajasthan,HANUMANGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),118202,46353,1,0.49,1,0.34,1,1,653.3
+58014,58014,Rajasthan,HANUMANGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),117060,265564,1,0.49,1,0.34,1,1,653.3
+58046,58046,Rajasthan,HANUMANGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),158081,341270,1,0.49,1,0.34,1,1,653.3
+58072,58072,Rajasthan,HANUMANGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),159425,367617,1,0.49,1,0.34,1,1,653.3
+58098,58098,Rajasthan,HANUMANGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),144445,56911,1,0.49,1,0.34,1,1,653.3
+58124,58124,Rajasthan,HANUMANGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),156714,67810,1,0.49,1,0.34,1,1,653.3
+58150,58150,Rajasthan,HANUMANGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),128173,54681,1,0.49,1,0.34,1,1,653.3
+58177,58177,Rajasthan,HANUMANGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),174821,71028,1,0.49,1,0.34,1,1,653.3
+58203,58203,Rajasthan,HANUMANGARH,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),157244,66888,1,0.49,1,0.34,1,1,653.3
+58238,58238,Rajasthan,JAIPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),232,53,1,0.49,1,0.34,1,1,653.3
+58269,58269,Rajasthan,JAIPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),200,57,1,0.49,1,0.34,1,1,653.3
+58301,58301,Rajasthan,JAIPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),111,176,1,0.49,1,0.34,1,1,653.3
+58334,58334,Rajasthan,JAIPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),196,106,1,0.49,1,0.34,1,1,653.3
+58367,58367,Rajasthan,JAIPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),289,188,1,0.49,1,0.34,1,1,653.3
+58401,58401,Rajasthan,JAIPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),299,617,1,0.49,1,0.34,1,1,653.3
+58436,58436,Rajasthan,JAIPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),789,1376,1,0.49,1,0.34,1,1,653.3
+58466,58466,Rajasthan,JAIPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),522,976,1,0.49,1,0.34,1,1,653.3
+58494,58494,Rajasthan,JAIPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),218,79,1,0.49,1,0.34,1,1,653.3
+58522,58522,Rajasthan,JAIPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),125,50,1,0.49,1,0.34,1,1,653.3
+58551,58551,Rajasthan,JAIPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),63,26,1,0.49,1,0.34,1,1,653.3
+58579,58579,Rajasthan,JAIPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),106,,1,0.49,1,0.34,1,1,653.3
+58607,58607,Rajasthan,JAIPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),80,35,1,0.49,1,0.34,1,1,653.3
+58633,58633,Rajasthan,JAISALMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),500,588,1,0.49,1,0.34,1,1,653.3
+58642,58642,Rajasthan,JAISALMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),501,115,1,0.49,1,0.34,1,1,653.3
+58660,58660,Rajasthan,JAISALMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),215,62,1,0.49,1,0.34,1,1,653.3
+58677,58677,Rajasthan,JAISALMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),68,106,1,0.49,1,0.34,1,1,653.3
+58696,58696,Rajasthan,JAISALMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),144,76,1,0.49,1,0.34,1,1,653.3
+58717,58717,Rajasthan,JAISALMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),834,547,1,0.49,1,0.34,1,1,653.3
+58739,58739,Rajasthan,JAISALMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),450,929,1,0.49,1,0.34,1,1,653.3
+58764,58764,Rajasthan,JAISALMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),401,700,1,0.49,1,0.34,1,1,653.3
+58785,58785,Rajasthan,JAISALMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),276,517,1,0.49,1,0.34,1,1,653.3
+58804,58804,Rajasthan,JAISALMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),45,16,1,0.49,1,0.34,1,1,653.3
+58823,58823,Rajasthan,JAISALMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),9,3,1,0.49,1,0.34,1,1,653.3
+58842,58842,Rajasthan,JAISALMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),39,16,1,0.49,1,0.34,1,1,653.3
+58861,58861,Rajasthan,JAISALMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),105,36,1,0.49,1,0.34,1,1,653.3
+58881,58881,Rajasthan,JAISALMER,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),39,17,1,0.49,1,0.34,1,1,653.3
+58900,58900,Rajasthan,JALORE,Kharif     ,medium,6,80,25,Composite,Cotton(lint),2200,1764,1,0.49,1,0.34,1,1,653.3
+58913,58913,Rajasthan,JALORE,Kharif     ,medium,6,80,25,Composite,Cotton(lint),2110,675,1,0.49,1,0.34,1,1,653.3
+58937,58937,Rajasthan,JALORE,Kharif     ,medium,6,80,25,Composite,Cotton(lint),1435,247,1,0.49,1,0.34,1,1,653.3
+58963,58963,Rajasthan,JALORE,Kharif     ,medium,6,80,25,Composite,Cotton(lint),481,600,1,0.49,1,0.34,1,1,653.3
+58989,58989,Rajasthan,JALORE,Kharif     ,medium,6,80,25,Composite,Cotton(lint),489,1753,1,0.49,1,0.34,1,1,653.3
+59015,59015,Rajasthan,JALORE,Kharif     ,medium,6,80,25,Composite,Cotton(lint),381,782,1,0.49,1,0.34,1,1,653.3
+59049,59049,Rajasthan,JALORE,Kharif     ,medium,6,80,25,Composite,Cotton(lint),231,476,1,0.49,1,0.34,1,1,653.3
+59082,59082,Rajasthan,JALORE,Kharif     ,medium,6,80,25,Composite,Cotton(lint),684,1194,1,0.49,1,0.34,1,1,653.3
+59110,59110,Rajasthan,JALORE,Kharif     ,medium,6,80,25,Composite,Cotton(lint),291,541,1,0.49,1,0.34,1,1,653.3
+59137,59137,Rajasthan,JALORE,Kharif     ,medium,6,80,25,Composite,Cotton(lint),126,46,1,0.49,1,0.34,1,1,653.3
+59165,59165,Rajasthan,JALORE,Kharif     ,medium,6,80,25,Composite,Cotton(lint),523,208,1,0.49,1,0.34,1,1,653.3
+59194,59194,Rajasthan,JALORE,Kharif     ,medium,6,80,25,Composite,Cotton(lint),721,294,1,0.49,1,0.34,1,1,653.3
+59222,59222,Rajasthan,JALORE,Kharif     ,medium,6,80,25,Composite,Cotton(lint),692,238,1,0.49,1,0.34,1,1,653.3
+59251,59251,Rajasthan,JALORE,Kharif     ,medium,6,80,25,Composite,Cotton(lint),340,147,1,0.49,1,0.34,1,1,653.3
+59296,59296,Rajasthan,JHALAWAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),102,24,1,0.49,1,0.34,1,1,653.3
+59327,59327,Rajasthan,JHALAWAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),64,18,1,0.49,1,0.34,1,1,653.3
+59357,59357,Rajasthan,JHALAWAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),54,88,1,0.49,1,0.34,1,1,653.3
+59388,59388,Rajasthan,JHALAWAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),38,24,1,0.49,1,0.34,1,1,653.3
+59419,59419,Rajasthan,JHALAWAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),37,24,1,0.49,1,0.34,1,1,653.3
+59456,59456,Rajasthan,JHALAWAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),10,17,1,0.49,1,0.34,1,1,653.3
+59496,59496,Rajasthan,JHALAWAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),24,41,1,0.49,1,0.34,1,1,653.3
+59526,59526,Rajasthan,JHALAWAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),31,58,1,0.49,1,0.34,1,1,653.3
+59556,59556,Rajasthan,JHALAWAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),72,26,1,0.49,1,0.34,1,1,653.3
+59585,59585,Rajasthan,JHALAWAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),24,10,1,0.49,1,0.34,1,1,653.3
+59613,59613,Rajasthan,JHALAWAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),13,5,1,0.49,1,0.34,1,1,653.3
+59642,59642,Rajasthan,JHALAWAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),12,4,1,0.49,1,0.34,1,1,653.3
+59670,59670,Rajasthan,JHALAWAR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),6,3,1,0.49,1,0.34,1,1,653.3
+59698,59698,Rajasthan,JHUNJHUNU,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),800,1176,1,0.49,1,0.34,1,1,653.3
+59707,59707,Rajasthan,JHUNJHUNU,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),632,145,1,0.49,1,0.34,1,1,653.3
+59733,59733,Rajasthan,JHUNJHUNU,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),428,123,1,0.49,1,0.34,1,1,653.3
+59759,59759,Rajasthan,JHUNJHUNU,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),36,59,1,0.49,1,0.34,1,1,653.3
+59780,59780,Rajasthan,JHUNJHUNU,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),151,82,1,0.49,1,0.34,1,1,653.3
+59802,59802,Rajasthan,JHUNJHUNU,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),155,100,1,0.49,1,0.34,1,1,653.3
+59833,59833,Rajasthan,JHUNJHUNU,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),364,752,1,0.49,1,0.34,1,1,653.3
+59864,59864,Rajasthan,JHUNJHUNU,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),1370,2394,1,0.49,1,0.34,1,1,653.3
+59888,59888,Rajasthan,JHUNJHUNU,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),976,1823,1,0.49,1,0.34,1,1,653.3
+59913,59913,Rajasthan,JHUNJHUNU,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),381,138,1,0.49,1,0.34,1,1,653.3
+59938,59938,Rajasthan,JHUNJHUNU,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),34,13,1,0.49,1,0.34,1,1,653.3
+59963,59963,Rajasthan,JHUNJHUNU,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),17,7,1,0.49,1,0.34,1,1,653.3
+59989,59989,Rajasthan,JHUNJHUNU,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),31,11,1,0.49,1,0.34,1,1,653.3
+60014,60014,Rajasthan,JHUNJHUNU,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),15,6,1,0.49,1,0.34,1,1,653.3
+60038,60038,Rajasthan,JODHPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),7600,15882,1,0.49,1,0.34,1,1,653.3
+60049,60049,Rajasthan,JODHPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),10673,3330,1,0.49,1,0.34,1,1,653.3
+60075,60075,Rajasthan,JODHPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),12422,4079,1,0.49,1,0.34,1,1,653.3
+60101,60101,Rajasthan,JODHPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),8057,12323,1,0.49,1,0.34,1,1,653.3
+60122,60122,Rajasthan,JODHPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),10652,20782,1,0.49,1,0.34,1,1,653.3
+60143,60143,Rajasthan,JODHPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),8313,11641,1,0.49,1,0.34,1,1,653.3
+60172,60172,Rajasthan,JODHPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),9440,21117,1,0.49,1,0.34,1,1,653.3
+60200,60200,Rajasthan,JODHPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),13148,34852,1,0.49,1,0.34,1,1,653.3
+60223,60223,Rajasthan,JODHPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),11423,25558,1,0.49,1,0.34,1,1,653.3
+60245,60245,Rajasthan,JODHPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),8131,4334,1,0.49,1,0.34,1,1,653.3
+60267,60267,Rajasthan,JODHPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),7237,3822,1,0.49,1,0.34,1,1,653.3
+60291,60291,Rajasthan,JODHPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),9167,4812,1,0.49,1,0.34,1,1,653.3
+60314,60314,Rajasthan,JODHPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),11022,4578,1,0.49,1,0.34,1,1,653.3
+60338,60338,Rajasthan,JODHPUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),11611,6697,1,0.49,1,0.34,1,1,653.3
+60366,60366,Rajasthan,KARAULI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1,,1,0.49,1,0.34,1,1,653.3
+60398,60398,Rajasthan,KARAULI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2,1,1,0.49,1,0.34,1,1,653.3
+60461,60461,Rajasthan,KARAULI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2,0,1,0.49,1,0.34,1,1,653.3
+60492,60492,Rajasthan,KARAULI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),9,6,1,0.49,1,0.34,1,1,653.3
+60523,60523,Rajasthan,KARAULI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),80,164,1,0.49,1,0.34,1,1,653.3
+60558,60558,Rajasthan,KARAULI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),114,200,1,0.49,1,0.34,1,1,653.3
+60590,60590,Rajasthan,KARAULI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),98,182,1,0.49,1,0.34,1,1,653.3
+60618,60618,Rajasthan,KARAULI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),37,13,1,0.49,1,0.34,1,1,653.3
+60645,60645,Rajasthan,KARAULI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),24,10,1,0.49,1,0.34,1,1,653.3
+60677,60677,Rajasthan,KARAULI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),54,22,1,0.49,1,0.34,1,1,653.3
+60704,60704,Rajasthan,KARAULI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),148,51,1,0.49,1,0.34,1,1,653.3
+60732,60732,Rajasthan,KARAULI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),70,30,1,0.49,1,0.34,1,1,653.3
+60774,60774,Rajasthan,KOTA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),5,1,1,0.49,1,0.34,1,1,653.3
+60833,60833,Rajasthan,KOTA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1,1,1,0.49,1,0.34,1,1,653.3
+61067,61067,Rajasthan,KOTA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1,,1,0.49,1,0.34,1,1,653.3
+61094,61094,Rajasthan,KOTA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),7,2,1,0.49,1,0.34,1,1,653.3
+61121,61121,Rajasthan,KOTA,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2,1,1,0.49,1,0.34,1,1,653.3
+61148,61148,Rajasthan,NAGAUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),10500,22352,1,0.49,1,0.34,1,1,653.3
+61160,61160,Rajasthan,NAGAUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),11081,2323,1,0.49,1,0.34,1,1,653.3
+61186,61186,Rajasthan,NAGAUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),12816,3725,1,0.49,1,0.34,1,1,653.3
+61210,61210,Rajasthan,NAGAUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),7679,13388,1,0.49,1,0.34,1,1,653.3
+61238,61238,Rajasthan,NAGAUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),11566,23247,1,0.49,1,0.34,1,1,653.3
+61265,61265,Rajasthan,NAGAUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),7749,19918,1,0.49,1,0.34,1,1,653.3
+61298,61298,Rajasthan,NAGAUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),9222,28570,1,0.49,1,0.34,1,1,653.3
+61332,61332,Rajasthan,NAGAUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),17794,27564,1,0.49,1,0.34,1,1,653.3
+61356,61356,Rajasthan,NAGAUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),17661,26835,1,0.49,1,0.34,1,1,653.3
+61380,61380,Rajasthan,NAGAUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),9223,3877,1,0.49,1,0.34,1,1,653.3
+61406,61406,Rajasthan,NAGAUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),7944,4247,1,0.49,1,0.34,1,1,653.3
+61429,61429,Rajasthan,NAGAUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),11759,8029,1,0.49,1,0.34,1,1,653.3
+61454,61454,Rajasthan,NAGAUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),18093,8658,1,0.49,1,0.34,1,1,653.3
+61479,61479,Rajasthan,NAGAUR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),20479,11294,1,0.49,1,0.34,1,1,653.3
+61505,61505,Rajasthan,PALI,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),22100,35294,1,0.49,1,0.34,1,1,653.3
+61518,61518,Rajasthan,PALI,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),24337,6685,1,0.49,1,0.34,1,1,653.3
+61548,61548,Rajasthan,PALI,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),15837,4476,1,0.49,1,0.34,1,1,653.3
+61581,61581,Rajasthan,PALI,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),9180,16435,1,0.49,1,0.34,1,1,653.3
+61611,61611,Rajasthan,PALI,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),8889,17588,1,0.49,1,0.34,1,1,653.3
+61642,61642,Rajasthan,PALI,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),7114,14647,1,0.49,1,0.34,1,1,653.3
+61677,61677,Rajasthan,PALI,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),4350,10023,1,0.49,1,0.34,1,1,653.3
+61716,61716,Rajasthan,PALI,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),7327,11623,1,0.49,1,0.34,1,1,653.3
+61744,61744,Rajasthan,PALI,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),4796,8058,1,0.49,1,0.34,1,1,653.3
+61772,61772,Rajasthan,PALI,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),3268,1086,1,0.49,1,0.34,1,1,653.3
+61800,61800,Rajasthan,PALI,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),3449,1179,1,0.49,1,0.34,1,1,653.3
+61828,61828,Rajasthan,PALI,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),4862,2117,1,0.49,1,0.34,1,1,653.3
+61856,61856,Rajasthan,PALI,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),4239,1185,1,0.49,1,0.34,1,1,653.3
+61880,61880,Rajasthan,PALI,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),3304,1772,1,0.49,1,0.34,1,1,653.3
+61908,61908,Rajasthan,PRATAPGARH,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),2510,441,1,0.49,1,0.34,1,1,653.3
+61938,61938,Rajasthan,PRATAPGARH,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),2260,589,1,0.49,1,0.34,1,1,653.3
+61968,61968,Rajasthan,PRATAPGARH,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),2163,446,1,0.49,1,0.34,1,1,653.3
+61995,61995,Rajasthan,RAJSAMAND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1600,2941,1,0.49,1,0.34,1,1,653.3
+62009,62009,Rajasthan,RAJSAMAND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1363,325,1,0.49,1,0.34,1,1,653.3
+62040,62040,Rajasthan,RAJSAMAND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),622,65,1,0.49,1,0.34,1,1,653.3
+62072,62072,Rajasthan,RAJSAMAND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),348,347,1,0.49,1,0.34,1,1,653.3
+62102,62102,Rajasthan,RAJSAMAND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),333,1224,1,0.49,1,0.34,1,1,653.3
+62133,62133,Rajasthan,RAJSAMAND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),479,312,1,0.49,1,0.34,1,1,653.3
+62165,62165,Rajasthan,RAJSAMAND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),245,505,1,0.49,1,0.34,1,1,653.3
+62201,62201,Rajasthan,RAJSAMAND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),705,1229,1,0.49,1,0.34,1,1,653.3
+62230,62230,Rajasthan,RAJSAMAND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),620,1158,1,0.49,1,0.34,1,1,653.3
+62260,62260,Rajasthan,RAJSAMAND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1530,556,1,0.49,1,0.34,1,1,653.3
+62292,62292,Rajasthan,RAJSAMAND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),4473,1776,1,0.49,1,0.34,1,1,653.3
+62324,62324,Rajasthan,RAJSAMAND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),8192,3340,1,0.49,1,0.34,1,1,653.3
+62354,62354,Rajasthan,RAJSAMAND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),6525,2255,1,0.49,1,0.34,1,1,653.3
+62383,62383,Rajasthan,RAJSAMAND,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2871,1835,1,0.49,1,0.34,1,1,653.3
+62426,62426,Rajasthan,SAWAI MADHOPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),1,,1,0.49,1,0.34,1,1,653.3
+62489,62489,Rajasthan,SAWAI MADHOPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),3,6,1,0.49,1,0.34,1,1,653.3
+62551,62551,Rajasthan,SAWAI MADHOPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),3,,1,0.49,1,0.34,1,1,653.3
+62586,62586,Rajasthan,SAWAI MADHOPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),1,,1,0.49,1,0.34,1,1,653.3
+62650,62650,Rajasthan,SAWAI MADHOPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),4,5,1,0.49,1,0.34,1,1,653.3
+62771,62771,Rajasthan,SAWAI MADHOPUR,Kharif     ,medium,6,80,25,Temperate,Cotton(lint),2,1,1,0.49,1,0.34,1,1,653.3
+62830,62830,Rajasthan,SIKAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),300,588,1,0.49,1,0.34,1,1,653.3
+62842,62842,Rajasthan,SIKAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),498,115,1,0.49,1,0.34,1,1,653.3
+62868,62868,Rajasthan,SIKAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1190,341,1,0.49,1,0.34,1,1,653.3
+62896,62896,Rajasthan,SIKAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),377,594,1,0.49,1,0.34,1,1,653.3
+62920,62920,Rajasthan,SIKAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),362,200,1,0.49,1,0.34,1,1,653.3
+62944,62944,Rajasthan,SIKAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),567,371,1,0.49,1,0.34,1,1,653.3
+62979,62979,Rajasthan,SIKAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),761,1570,1,0.49,1,0.34,1,1,653.3
+63014,63014,Rajasthan,SIKAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1104,1929,1,0.49,1,0.34,1,1,653.3
+63041,63041,Rajasthan,SIKAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),850,1588,1,0.49,1,0.34,1,1,653.3
+63065,63065,Rajasthan,SIKAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),307,112,1,0.49,1,0.34,1,1,653.3
+63089,63089,Rajasthan,SIKAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),161,64,1,0.49,1,0.34,1,1,653.3
+63117,63117,Rajasthan,SIKAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),123,50,1,0.49,1,0.34,1,1,653.3
+63143,63143,Rajasthan,SIKAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),161,56,1,0.49,1,0.34,1,1,653.3
+63168,63168,Rajasthan,SIKAR,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),97,42,1,0.49,1,0.34,1,1,653.3
+63194,63194,Rajasthan,SIROHI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),4600,12352,1,0.49,1,0.34,1,1,653.3
+63208,63208,Rajasthan,SIROHI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),5006,1727,1,0.49,1,0.34,1,1,653.3
+63239,63239,Rajasthan,SIROHI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),4350,1527,1,0.49,1,0.34,1,1,653.3
+63269,63269,Rajasthan,SIROHI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2123,1982,1,0.49,1,0.34,1,1,653.3
+63300,63300,Rajasthan,SIROHI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2231,4918,1,0.49,1,0.34,1,1,653.3
+63330,63330,Rajasthan,SIROHI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2189,1729,1,0.49,1,0.34,1,1,653.3
+63365,63365,Rajasthan,SIROHI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1147,3505,1,0.49,1,0.34,1,1,653.3
+63400,63400,Rajasthan,SIROHI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2303,3817,1,0.49,1,0.34,1,1,653.3
+63430,63430,Rajasthan,SIROHI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1156,2058,1,0.49,1,0.34,1,1,653.3
+63460,63460,Rajasthan,SIROHI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),976,323,1,0.49,1,0.34,1,1,653.3
+63490,63490,Rajasthan,SIROHI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1999,738,1,0.49,1,0.34,1,1,653.3
+63520,63520,Rajasthan,SIROHI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),2454,981,1,0.49,1,0.34,1,1,653.3
+63550,63550,Rajasthan,SIROHI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),1790,420,1,0.49,1,0.34,1,1,653.3
+63577,63577,Rajasthan,SIROHI,Kharif     ,medium,6,80,25,Hot-dry,Cotton(lint),836,363,1,0.49,1,0.34,1,1,653.3
+63618,63618,Rajasthan,TONK,Kharif     ,medium,6,80,25,Composite,Cotton(lint),242,56,1,0.49,1,0.34,1,1,653.3
+63648,63648,Rajasthan,TONK,Kharif     ,medium,6,80,25,Composite,Cotton(lint),293,84,1,0.49,1,0.34,1,1,653.3
+63681,63681,Rajasthan,TONK,Kharif     ,medium,6,80,25,Composite,Cotton(lint),244,388,1,0.49,1,0.34,1,1,653.3
+63711,63711,Rajasthan,TONK,Kharif     ,medium,6,80,25,Composite,Cotton(lint),719,394,1,0.49,1,0.34,1,1,653.3
+63742,63742,Rajasthan,TONK,Kharif     ,medium,6,80,25,Composite,Cotton(lint),593,388,1,0.49,1,0.34,1,1,653.3
+63782,63782,Rajasthan,TONK,Kharif     ,medium,6,80,25,Composite,Cotton(lint),255,523,1,0.49,1,0.34,1,1,653.3
+63823,63823,Rajasthan,TONK,Kharif     ,medium,6,80,25,Composite,Cotton(lint),438,764,1,0.49,1,0.34,1,1,653.3
+63854,63854,Rajasthan,TONK,Kharif     ,medium,6,80,25,Composite,Cotton(lint),318,594,1,0.49,1,0.34,1,1,653.3
+63886,63886,Rajasthan,TONK,Kharif     ,medium,6,80,25,Composite,Cotton(lint),187,68,1,0.49,1,0.34,1,1,653.3
+63916,63916,Rajasthan,TONK,Kharif     ,medium,6,80,25,Composite,Cotton(lint),165,65,1,0.49,1,0.34,1,1,653.3
+63947,63947,Rajasthan,TONK,Kharif     ,medium,6,80,25,Composite,Cotton(lint),85,35,1,0.49,1,0.34,1,1,653.3
+63977,63977,Rajasthan,TONK,Kharif     ,medium,6,80,25,Composite,Cotton(lint),441,152,1,0.49,1,0.34,1,1,653.3
+64010,64010,Rajasthan,TONK,Kharif     ,medium,6,80,25,Composite,Cotton(lint),139,60,1,0.49,1,0.34,1,1,653.3
+64054,64054,Rajasthan,UDAIPUR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),18,4,1,0.49,1,0.34,1,1,653.3
+64085,64085,Rajasthan,UDAIPUR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),23,7,1,0.49,1,0.34,1,1,653.3
+64119,64119,Rajasthan,UDAIPUR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),23,35,1,0.49,1,0.34,1,1,653.3
+64154,64154,Rajasthan,UDAIPUR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),41,29,1,0.49,1,0.34,1,1,653.3
+64189,64189,Rajasthan,UDAIPUR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),61,41,1,0.49,1,0.34,1,1,653.3
+64226,64226,Rajasthan,UDAIPUR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),76,158,1,0.49,1,0.34,1,1,653.3
+64266,64266,Rajasthan,UDAIPUR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),233,405,1,0.49,1,0.34,1,1,653.3
+64300,64300,Rajasthan,UDAIPUR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),214,400,1,0.49,1,0.34,1,1,653.3
+64334,64334,Rajasthan,UDAIPUR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),168,61,1,0.49,1,0.34,1,1,653.3
+64367,64367,Rajasthan,UDAIPUR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),260,103,1,0.49,1,0.34,1,1,653.3
+64400,64400,Rajasthan,UDAIPUR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),581,237,1,0.49,1,0.34,1,1,653.3
+64435,64435,Rajasthan,UDAIPUR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),756,261,1,0.49,1,0.34,1,1,653.3
+64467,64467,Rajasthan,UDAIPUR,Kharif     ,medium,6,80,25,Warm-humid,Cotton(lint),973,422,1,0.49,1,0.34,1,1,653.3
